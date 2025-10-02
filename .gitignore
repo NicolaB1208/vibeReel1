@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+instance/
+.env.*
+.DS_Store
+*.sqlite3
+*.db
+
+# Video exports
+/data/output/*.mp4
+/data/output/*.mov
+/data/output/*.mkv
