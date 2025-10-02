@@ -52,7 +52,10 @@ def _probe_dimensions(path: Path) -> tuple[int, int]:
         capture_output=True,
         text=True,
     )
-    width_str, height_str = result.stdout.strip().split("x")
+    parts = [segment for segment in result.stdout.strip().split("x") if segment]
+    if len(parts) < 2:
+        raise ValueError(f"Unexpected ffprobe output: {result.stdout!r}")
+    width_str, height_str = parts[:2]
     return int(width_str), int(height_str)
 
 
@@ -95,6 +98,8 @@ def process_video():
         video_width, video_height = _probe_dimensions(video_path)
     except subprocess.CalledProcessError as exc:
         return jsonify({"error": "Unable to read video metadata.", "details": exc.stderr}), 500
+    except ValueError as exc:
+        return jsonify({"error": "Unable to parse video dimensions.", "details": str(exc)}), 500
 
     outputs = []
     for index, region in enumerate(regions, start=1):
