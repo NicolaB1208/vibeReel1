@@ -25,7 +25,7 @@ Prototype web app that helps you transform a raw two-speaker podcast recording i
 ## Features
 
 - Preview the raw horizontal recording directly in the browser.
-- Drag two fixed-format (1080×675) rectangles to define the speaker crops.
+- Drag two fixed-format (1.1:1) rectangles to define the speaker crops.
 - Confirm the selection to trigger ffmpeg and export two cropped clips (one per speaker) into `data/output/`.
 
 The exported files are available for download from the interface once the process completes.

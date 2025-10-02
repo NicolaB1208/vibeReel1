@@ -77,6 +77,7 @@ body {
   border-radius: 12px;
   cursor: grab;
   pointer-events: auto;
+  touch-action: none;
   transition: box-shadow 0.2s ease, transform 0.2s ease;
 }
 
@@ -99,6 +100,51 @@ body {
   background: rgba(10, 13, 26, 0.8);
   color: rgba(255, 255, 255, 0.92);
   pointer-events: none;
+}
+
+.selection-rect__handle {
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.9);
+  border: 2px solid rgba(10, 13, 26, 0.35);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: auto;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23101624' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M4 12h16'/%3E%3Cpath d='M8 8l-4 4 4 4'/%3E%3Cpath d='M16 8l4 4-4 4'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 70%;
+}
+
+.selection-rect__handle--top-left {
+  top: 0;
+  left: 0;
+  transform: translate(-50%, -50%) rotate(45deg);
+  cursor: nwse-resize;
+}
+
+.selection-rect__handle--top-right {
+  top: 0;
+  right: 0;
+  transform: translate(50%, -50%) rotate(-45deg);
+  cursor: nesw-resize;
+}
+
+.selection-rect__handle--bottom-left {
+  bottom: 0;
+  left: 0;
+  transform: translate(-50%, 50%) rotate(-45deg);
+  cursor: nesw-resize;
+}
+
+.selection-rect__handle--bottom-right {
+  bottom: 0;
+  right: 0;
+  transform: translate(50%, 50%) rotate(45deg);
+  cursor: nwse-resize;
 }
 
 .actions {
