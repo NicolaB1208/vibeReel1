@@ -1,2 +1,31 @@
 # vibeReel1
-AI managed repository to vibe code an app that make you go from raw podcas recording to short form videos of the most intersting parts
+
+Prototype web app that helps you transform a raw two-speaker podcast recording into vertical clips ready for short form platforms.
+
+## Getting started
+
+1. Create a virtual environment (optional but recommended) and install the dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+2. Make sure [ffmpeg](https://ffmpeg.org/) is installed and available on your system path.
+
+3. Drop a source video in `data/raw/`. The app will use the first file it finds with one of these extensions: `.mp4`, `.mov`, `.mkv`, `.webm`, `.m4v`.
+
+4. Run the Flask development server:
+
+   ```bash
+   flask --app app run --debug
+   ```
+
+5. Open `http://127.0.0.1:5000/` in your browser.
+
+## Features
+
+- Preview the raw horizontal recording directly in the browser.
+- Drag two fixed-format (1080×675) rectangles to define the speaker crops.
+- Confirm the selection to trigger ffmpeg and export two cropped clips (one per speaker) into `data/output/`.
+
+The exported files are available for download from the interface once the process completes.

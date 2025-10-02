@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Podcast Vertical Cropper</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}" />
+  </head>
+  <body>
+    <main class="page">
+      <header class="page__header">
+        <h1>Podcast Vertical Cropper</h1>
+        <p>Select the frames that will build the two-person vertical video.</p>
+      </header>
+
+      {% if video_url %}
+      <section class="player">
+        <div class="player__video" id="video-wrapper">
+          <video id="source-video" controls crossorigin="anonymous">
+            <source src="{{ video_url }}" type="{{ video_mime }}" />
+            Your browser does not support the video tag.
+          </video>
+          <div class="selection-overlay hidden" id="selection-overlay">
+            <div class="selection-rect" id="rect-speaker-1">
+              <span class="selection-rect__label">Speaker 1</span>
+            </div>
+            <div class="selection-rect" id="rect-speaker-2">
+              <span class="selection-rect__label">Speaker 2</span>
+            </div>
+          </div>
+        </div>
+        <div class="actions">
+          <button id="confirm-selection" type="button" class="button">Export speaker clips</button>
+          <p class="hint">Rectangles keep the 1080×675 format for vertical stacking.</p>
+        </div>
+        <div id="feedback" class="feedback" role="status" aria-live="polite"></div>
+        <div id="exports" class="exports"></div>
+      </section>
+      {% else %}
+      <section class="empty-state">
+        <p>No video found. Drop a podcast recording in <code>data/raw</code> and refresh this page.</p>
+      </section>
+      {% endif %}
+    </main>
+
+    <script src="{{ url_for('static', filename='js/main.js') }}" defer></script>
+  </body>
+</html>
