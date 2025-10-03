@@ -12,15 +12,21 @@ Prototype web app that helps you transform a raw two-speaker podcast recording i
 
 2. Make sure [ffmpeg](https://ffmpeg.org/) is installed and available on your system path.
 
-3. Drop a source video in `data/raw/`. The app will use the first file it finds with one of these extensions: `.mp4`, `.mov`, `.mkv`, `.webm`, `.m4v`.
+3. Create a `.env` file in the project root and add your ElevenLabs key (you can copy `env.example` to `.env`):
 
-4. Run the Flask development server:
+   ```env
+   ELEVENLABS_API_KEY=your_key_here
+   ```
+
+4. Drop a source video in `data/raw/`. The app will use the first file it finds with one of these extensions: `.mp4`, `.mov`, `.mkv`, `.webm`, `.m4v`.
+
+5. Run the Flask development server:
 
    ```bash
    flask --app app run --debug
    ```
 
-5. Open `http://127.0.0.1:5000/` in your browser.
+6. Open `http://127.0.0.1:5000/` in your browser.
 
 ## Features
 

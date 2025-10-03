@@ -1,6 +1,7 @@
 import subprocess
 from pathlib import Path
 from typing import Optional
+from dotenv import load_dotenv
 
 from flask import Flask, jsonify, render_template, request, send_from_directory, url_for
 
@@ -19,6 +20,7 @@ OUTPUT_DIR = BASE_DIR / "data" / "output"
 
 VIDEO_EXTENSIONS = {".mp4", ".mov", ".mkv", ".webm", ".m4v"}
 
+load_dotenv()
 app = Flask(__name__)
 
 VIDEO_DIR.mkdir(parents=True, exist_ok=True)

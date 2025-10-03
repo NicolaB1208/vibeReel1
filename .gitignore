@@ -3,6 +3,7 @@ __pycache__/
 .env
 instance/
 .env.*
+!.env.example
 .DS_Store
 *.sqlite3
 *.db
