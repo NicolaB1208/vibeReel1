@@ -4,6 +4,15 @@ from typing import Optional
 
 from flask import Flask, jsonify, render_template, request, send_from_directory, url_for
 
+from video_compositor import (
+    CANVAS_HEIGHT,
+    CANVAS_WIDTH,
+    CLIP_HEIGHT,
+    CLIP_WIDTH,
+    TOP_BOTTOM_PADDING,
+    compose_vertical_stack,
+)
+
 BASE_DIR = Path(__file__).resolve().parent
 VIDEO_DIR = BASE_DIR / "data" / "raw"
 OUTPUT_DIR = BASE_DIR / "data" / "output"
@@ -102,6 +111,7 @@ def process_video():
         return jsonify({"error": "Unable to parse video dimensions.", "details": str(exc)}), 500
 
     outputs = []
+    segment_paths: list[Path] = []
     for index, region in enumerate(regions, start=1):
         try:
             x_ratio = float(region["x"])
@@ -155,6 +165,8 @@ def process_video():
                 500,
             )
 
+        segment_paths.append(output_path)
+
         outputs.append(
             {
                 "label": f"Speaker {index}",
@@ -168,6 +180,40 @@ def process_video():
                 },
             }
         )
+
+    try:
+        combined_name = "combined_vertical.mp4"
+        combined_path = OUTPUT_DIR / combined_name
+        compose_vertical_stack(segment_paths[0], segment_paths[1], combined_path)
+    except IndexError:
+        return jsonify({"error": "Two segments are required to build the combined video."}), 500
+    except subprocess.CalledProcessError as exc:
+        return (
+            jsonify(
+                {
+                    "error": "ffmpeg failed while composing the stacked video.",
+                    "details": exc.stderr.decode("utf-8", errors="ignore"),
+                }
+            ),
+            500,
+        )
+
+    outputs.append(
+        {
+            "label": "Combined Vertical",
+            "filename": combined_name,
+            "url": url_for("serve_output", filename=combined_name),
+            "crop": {
+                "x": 0,
+                "y": 0,
+                "width": CANVAS_WIDTH,
+                "height": CANVAS_HEIGHT,
+                "topPadding": TOP_BOTTOM_PADDING,
+                "clipWidth": CLIP_WIDTH,
+                "clipHeight": CLIP_HEIGHT,
+            },
+        }
+    )
 
     return jsonify({"outputs": outputs})
 
