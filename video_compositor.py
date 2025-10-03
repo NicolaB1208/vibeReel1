@@ -10,9 +10,8 @@ CANVAS_HEIGHT = 3840
 TOP_BOTTOM_PADDING = 103
 TARGET_ASPECT_RATIO = 1.1
 
-INNER_HEIGHT = CANVAS_HEIGHT - 2 * TOP_BOTTOM_PADDING
-CLIP_HEIGHT = INNER_HEIGHT // 2
-CLIP_WIDTH = round(CLIP_HEIGHT * TARGET_ASPECT_RATIO)
+CLIP_WIDTH = 1946
+CLIP_HEIGHT = round(CLIP_WIDTH / TARGET_ASPECT_RATIO)
 
 
 def compose_vertical_stack(top_clip: Path, bottom_clip: Path, output_path: Path) -> Path:
@@ -32,15 +31,13 @@ def compose_vertical_stack(top_clip: Path, bottom_clip: Path, output_path: Path)
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
-    filter_complex = \
-        (
-            f"[0:v]scale={CLIP_WIDTH}:{CLIP_HEIGHT}:force_original_aspect_ratio=decrease,"
-            f"pad={CLIP_WIDTH}:{CLIP_HEIGHT}:(ow-iw)/2:(oh-ih)/2,setsar=1[v0];"
-            f"[1:v]scale={CLIP_WIDTH}:{CLIP_HEIGHT}:force_original_aspect_ratio=decrease,"
-            f"pad={CLIP_WIDTH}:{CLIP_HEIGHT}:(ow-iw)/2:(oh-ih)/2,setsar=1[v1];"
-            f"[v0][v1]vstack=inputs=2[stack];"
-            f"[stack]pad={CANVAS_WIDTH}:{CANVAS_HEIGHT}:(ow-iw)/2:{TOP_BOTTOM_PADDING}:color=black[outv]"
-        )
+    filter_complex = (
+        f"color=size={CANVAS_WIDTH}x{CANVAS_HEIGHT}:color=black[bg];"
+        f"[0:v]scale={CLIP_WIDTH}:{CLIP_HEIGHT}:force_original_aspect_ratio=decrease,setsar=1[top];"
+        f"[1:v]scale={CLIP_WIDTH}:{CLIP_HEIGHT}:force_original_aspect_ratio=decrease,setsar=1[bottom];"
+        f"[bg][top]overlay=(W-w)/2:{TOP_BOTTOM_PADDING}[stage1];"
+        f"[stage1][bottom]overlay=(W-w)/2:H-{TOP_BOTTOM_PADDING}-h[outv]"
+    )
 
     command = [
         "ffmpeg",
