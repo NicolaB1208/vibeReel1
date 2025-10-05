@@ -1,0 +1,3154 @@
+{
+  "video_path": "data/raw/test_podcast_raw_recording_30min.MP3",
+  "generated_at": "2025-10-05T14:46:02.161276",
+  "granularity": "word",
+  "language_code": "eng",
+  "model_id": "scribe_v1",
+  "segments": [
+    {
+      "segment_id": "seg_0001",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1.58,
+      "end": 3.28,
+      "phrase_text": "Hi, Hemal. How are you?"
+    },
+    {
+      "segment_id": "seg_0002",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 3.38,
+      "end": 6.44,
+      "phrase_text": "I'm doing good, Nicola. Thank you so much for inviting me for beer."
+    },
+    {
+      "segment_id": "seg_0003",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 6.54,
+      "end": 9.26,
+      "phrase_text": "Yeah, I think we should start with a toast, right?"
+    },
+    {
+      "segment_id": "seg_0004",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 9.38,
+      "end": 9.39,
+      "audio_event": "(laughs)"
+    },
+    {
+      "segment_id": "seg_0005",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 9.42,
+      "end": 10.98,
+      "phrase_text": "Yeah. Cheers."
+    },
+    {
+      "segment_id": "seg_0006",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 11.0,
+      "end": 11.05,
+      "phrase_text": "Cheers."
+    },
+    {
+      "segment_id": "seg_0007",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 11.05,
+      "end": 13.46,
+      "phrase_text": "Cheers."
+    },
+    {
+      "segment_id": "seg_0008",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 15.82,
+      "end": 17.48,
+      "phrase_text": "Ah, nice beer."
+    },
+    {
+      "segment_id": "seg_0009",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 18.34,
+      "end": 18.86,
+      "phrase_text": "Nice one."
+    },
+    {
+      "segment_id": "seg_0010",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 18.9,
+      "end": 20.01,
+      "phrase_text": "So..."
+    },
+    {
+      "segment_id": "seg_0011",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 20.04,
+      "end": 26.68,
+      "phrase_text": "So, yeah, how, how do we met? We met yesterday for the first time in real life."
+    },
+    {
+      "segment_id": "seg_0012",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 26.74,
+      "end": 26.9,
+      "phrase_text": "Yes."
+    },
+    {
+      "segment_id": "seg_0013",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 26.92,
+      "end": 28.92,
+      "phrase_text": "And now we are here talking-"
+    },
+    {
+      "segment_id": "seg_0014",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 28.94,
+      "end": 28.95,
+      "phrase_text": "Yes."
+    },
+    {
+      "segment_id": "seg_0015",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 28.95,
+      "end": 31.16,
+      "phrase_text": "... and spending some time together."
+    },
+    {
+      "segment_id": "seg_0016",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 31.2,
+      "end": 31.34,
+      "phrase_text": "Yes."
+    },
+    {
+      "segment_id": "seg_0017",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 31.36,
+      "end": 32.119,
+      "phrase_text": "That's so cool."
+    },
+    {
+      "segment_id": "seg_0018",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 32.159,
+      "end": 37.08,
+      "phrase_text": "Thank you so much, uh, for this, uh, invitation for this interview."
+    },
+    {
+      "segment_id": "seg_0019",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 37.1,
+      "end": 37.56,
+      "phrase_text": "Mm-hmm."
+    },
+    {
+      "segment_id": "seg_0020",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 37.58,
+      "end": 45.41,
+      "phrase_text": "Yesterday, we had an amazing, uh, n8n starter session in Barcelona. It's an official tour from"
+    },
+    {
+      "segment_id": "seg_0021",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 45.46,
+      "end": 50.29,
+      "phrase_text": "n8n across seven countries, Europe and US. Um,"
+    },
+    {
+      "segment_id": "seg_0022",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 51.02,
+      "end": 52.64,
+      "phrase_text": "it was great to meet you."
+    },
+    {
+      "segment_id": "seg_0023",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 52.74,
+      "end": 58.01,
+      "phrase_text": "Yeah. Thank you. And there were so many people. The vibes were, were so great."
+    },
+    {
+      "segment_id": "seg_0024",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 58.02,
+      "end": 58.15,
+      "phrase_text": "Yes."
+    },
+    {
+      "segment_id": "seg_0025",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 58.22,
+      "end": 65.68,
+      "phrase_text": "And, and I was actually... We were talking about this before, right? I was inspired by hearing your"
+    },
+    {
+      "segment_id": "seg_0026",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 65.78,
+      "end": 72.9,
+      "phrase_text": "story. And apart from all the cool stuff that you do with n8n, automations, AI, th- which is"
+    },
+    {
+      "segment_id": "seg_0027",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 73.16,
+      "end": 77.44,
+      "phrase_text": "amazing, but what I really like and, um,"
+    },
+    {
+      "segment_id": "seg_0028",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 78.9,
+      "end": 86.26,
+      "phrase_text": "relate to you was, like, your motivation behind all of this, like, why you are doing this."
+    },
+    {
+      "segment_id": "seg_0029",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 86.28,
+      "end": 86.31,
+      "phrase_text": "Sure."
+    },
+    {
+      "segment_id": "seg_0030",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 86.31,
+      "end": 86.32,
+      "audio_event": "(laughs)"
+    },
+    {
+      "segment_id": "seg_0031",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 86.34,
+      "end": 87.24,
+      "phrase_text": "Why you are doing this?"
+    },
+    {
+      "segment_id": "seg_0032",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 88.04,
+      "end": 92.55,
+      "phrase_text": "Thank you. Thank you so much. Yeah, uh, to be honest, the reason I'm, uh, I'm"
+    },
+    {
+      "segment_id": "seg_0033",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 93.4,
+      "end": 95.61,
+      "phrase_text": "doing all this AI education, especially with the"
+    },
+    {
+      "segment_id": "seg_0034",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 96.28,
+      "end": 97.75,
+      "phrase_text": "monthly, um,"
+    },
+    {
+      "segment_id": "seg_0035",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 98.58,
+      "end": 106.56,
+      "phrase_text": "free workshops and all the n8n ambassador program, uh, is because, uh, I started"
+    },
+    {
+      "segment_id": "seg_0036",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 106.84,
+      "end": 114.6,
+      "phrase_text": "learning coding when I was, like, 16 year old or 15 years old, um, in a developing country, um,"
+    },
+    {
+      "segment_id": "seg_0037",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 115.2,
+      "end": 119.62,
+      "phrase_text": "or even underdeveloped as a refugee in Pakistan. Um,"
+    },
+    {
+      "segment_id": "seg_0038",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 120.44,
+      "end": 127.92,
+      "phrase_text": "and the reason that I was exposed to this, uh, computer programming education early on in my life, despite having"
+    },
+    {
+      "segment_id": "seg_0039",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 127.98,
+      "end": 135.14,
+      "phrase_text": "very mediocre lifestyle or, or maybe even a poor lifestyle I would say,"
+    },
+    {
+      "segment_id": "seg_0040",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 135.28,
+      "end": 141.45,
+      "phrase_text": "uh, that it, uh, early exposure to, to AI... not AI, but, like, coding,"
+    },
+    {
+      "segment_id": "seg_0041",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 142.16,
+      "end": 149.24,
+      "phrase_text": "brought me today here where I am. Otherwise, I might have ended up in a totally different, uh, circumstance in"
+    },
+    {
+      "segment_id": "seg_0042",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 149.28,
+      "end": 154.88,
+      "phrase_text": "my life, financially speaking, educationally, and also lifestyle-wise. And I want to"
+    },
+    {
+      "segment_id": "seg_0043",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 155.78,
+      "end": 162.06,
+      "phrase_text": "pay back to the community and, and, and teach a lot of, uh, 16 years old kids around the world,"
+    },
+    {
+      "segment_id": "seg_0044",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 162.1,
+      "end": 169.28,
+      "phrase_text": "whether this be in India, Pakistan, Afghanistan, Bangladesh, uh, South America, wh- wherever it is. Like, uh, there are a"
+    },
+    {
+      "segment_id": "seg_0045",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 169.36,
+      "end": 175.74,
+      "phrase_text": "lot of developing countries with internet connections that they can play a YouTube video. And if get, they get, uh,"
+    },
+    {
+      "segment_id": "seg_0046",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 175.78,
+      "end": 183.73,
+      "phrase_text": "one of my YouTube videos, uh, and they, they learn how to build, uh, something, I,"
+    },
+    {
+      "segment_id": "seg_0047",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 183.73,
+      "end": 188.6,
+      "phrase_text": "I would be really, really happy. And it's just the start of the journey. I'm-"
+    },
+    {
+      "segment_id": "seg_0048",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 188.64,
+      "end": 189.47,
+      "phrase_text": "Yeah, just the beginning."
+    },
+    {
+      "segment_id": "seg_0049",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 189.47,
+      "end": 190.9,
+      "phrase_text": "... way far away from that"
+    },
+    {
+      "segment_id": "seg_0050",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 191.76,
+      "end": 192.42,
+      "phrase_text": "first million"
+    },
+    {
+      "segment_id": "seg_0051",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 193.28,
+      "end": 198.44,
+      "phrase_text": "16 year old kids who will, uh, who will learn from my content."
+    },
+    {
+      "segment_id": "seg_0052",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 198.46,
+      "end": 199.41,
+      "phrase_text": "Mm-hmm."
+    },
+    {
+      "segment_id": "seg_0053",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 199.42,
+      "end": 199.54,
+      "phrase_text": "Yeah."
+    },
+    {
+      "segment_id": "seg_0054",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 199.6,
+      "end": 203.26,
+      "phrase_text": "I see. I s-... That's, like, really the best mission. And"
+    },
+    {
+      "segment_id": "seg_0055",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 204.44,
+      "end": 212.28,
+      "phrase_text": "I remember yesterday you were saying that you're already hearing back stories from, from kids in, in India or, or"
+    },
+    {
+      "segment_id": "seg_0056",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 212.38,
+      "end": 213.28,
+      "phrase_text": "somewhere else that-"
+    },
+    {
+      "segment_id": "seg_0057",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 213.32,
+      "end": 213.84,
+      "phrase_text": "Yeah."
+    },
+    {
+      "segment_id": "seg_0058",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 213.86,
+      "end": 215.34,
+      "phrase_text": "... writes you, right?"
+    },
+    {
+      "segment_id": "seg_0059",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 215.35,
+      "end": 215.35,
+      "phrase_text": "Yeah."
+    },
+    {
+      "segment_id": "seg_0060",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 215.4,
+      "end": 222.74,
+      "phrase_text": "Saying, \"I, I watched your video, and it was so helpful, so clear, like this, uh, eight hours long"
+    },
+    {
+      "segment_id": "seg_0061",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 222.92,
+      "end": 223.73,
+      "phrase_text": "video.\""
+    },
+    {
+      "segment_id": "seg_0062",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 223.73,
+      "end": 223.73,
+      "phrase_text": "Yeah."
+    },
+    {
+      "segment_id": "seg_0063",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 223.73,
+      "end": 231.18,
+      "phrase_text": "\"And I can just followed it, put in, uh, in, in the work, and help someone in, in my community,"
+    },
+    {
+      "segment_id": "seg_0064",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 231.22,
+      "end": 236.81,
+      "phrase_text": "my neighborhood, the, the shop nearby, the, the, um, the doctor, and-\""
+    },
+    {
+      "segment_id": "seg_0065",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 236.82,
+      "end": 237.06,
+      "phrase_text": "Yes."
+    },
+    {
+      "segment_id": "seg_0066",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 237.07,
+      "end": 240.82,
+      "phrase_text": "\"... help them right away thanks to code and AI.\""
+    },
+    {
+      "segment_id": "seg_0067",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 240.9,
+      "end": 241.769,
+      "phrase_text": "Yes, uh, that-"
+    },
+    {
+      "segment_id": "seg_0068",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 241.769,
+      "end": 242.08,
+      "phrase_text": "That's super cool."
+    },
+    {
+      "segment_id": "seg_0069",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 242.1,
+      "end": 244.68,
+      "phrase_text": "... uh, that's amazing. Like, each time I get these"
+    },
+    {
+      "segment_id": "seg_0070",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 245.62,
+      "end": 248.56,
+      "phrase_text": "either shout-outs on LinkedIn that people"
+    },
+    {
+      "segment_id": "seg_0071",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 249.54,
+      "end": 255.6,
+      "phrase_text": "learned something, did something, or, or they send me a DM, they say like, \"Thank you so much for this"
+    },
+    {
+      "segment_id": "seg_0072",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 255.7,
+      "end": 263.42,
+      "phrase_text": "tutorial you're putting in.\" It's, it's, um, kind of the fuel I need in order to produce more and more"
+    },
+    {
+      "segment_id": "seg_0073",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 263.46,
+      "end": 270.3,
+      "phrase_text": "and more. Uh, and, and this kid from India sent me a message that he started building this little voice"
+    },
+    {
+      "segment_id": "seg_0074",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 270.38,
+      "end": 275.16,
+      "phrase_text": "AI agent. And, uh, many, many more like those examples come."
+    },
+    {
+      "segment_id": "seg_0075",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 275.17,
+      "end": 275.17,
+      "phrase_text": "Mm-hmm."
+    },
+    {
+      "segment_id": "seg_0076",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 275.2,
+      "end": 280.969,
+      "phrase_text": "And it's, as I said, it's just the start. I, I started my journey literally a few months ago, and"
+    },
+    {
+      "segment_id": "seg_0077",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 281.0,
+      "end": 285.02,
+      "phrase_text": "it's gonna get, uh, I think, bigger and bigger. I'm, uh-"
+    },
+    {
+      "segment_id": "seg_0078",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 285.04,
+      "end": 285.29,
+      "phrase_text": "It's moving pretty fast."
+    },
+    {
+      "segment_id": "seg_0079",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 285.29,
+      "end": 286.5,
+      "phrase_text": "I'm so passionate about this."
+    },
+    {
+      "segment_id": "seg_0080",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 286.54,
+      "end": 287.22,
+      "phrase_text": "Yeah."
+    },
+    {
+      "segment_id": "seg_0081",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 287.26,
+      "end": 288.14,
+      "phrase_text": "Yeah."
+    },
+    {
+      "segment_id": "seg_0082",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 288.16,
+      "end": 294.76,
+      "phrase_text": "And, and then I, I think you have just, uh, started a company in the last month-"
+    },
+    {
+      "segment_id": "seg_0083",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 294.84,
+      "end": 295.01,
+      "phrase_text": "Yeah."
+    },
+    {
+      "segment_id": "seg_0084",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 295.01,
+      "end": 295.78,
+      "phrase_text": "... or last few months."
+    },
+    {
+      "segment_id": "seg_0085",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 295.8,
+      "end": 296.01,
+      "phrase_text": "Yeah."
+    },
+    {
+      "segment_id": "seg_0086",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 296.04,
+      "end": 303.32,
+      "phrase_text": "Right? What, what's your, um, uh, goal with that? Or what do you... what are you cooking now?"
+    },
+    {
+      "segment_id": "seg_0087",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 303.52,
+      "end": 308.86,
+      "phrase_text": "So, with this new company, Avinai, um, Chris and I are, uh,"
+    },
+    {
+      "segment_id": "seg_0088",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 309.94,
+      "end": 311.88,
+      "phrase_text": "building AI agents, or kind of"
+    },
+    {
+      "segment_id": "seg_0089",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 312.92,
+      "end": 320.37,
+      "phrase_text": "in a metaphorical way, we are reimagining work. Uh, we believe that in the near"
+    },
+    {
+      "segment_id": "seg_0090",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 320.48,
+      "end": 328.14,
+      "phrase_text": "future, the work as we know it will change. And we at Avinai are at the fore- at the forefront"
+    },
+    {
+      "segment_id": "seg_0091",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 328.18,
+      "end": 335.64,
+      "phrase_text": "of reimagining how work is done. Uh, and I, I believe with this agentic workflows, with AI"
+    },
+    {
+      "segment_id": "seg_0092",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 335.76,
+      "end": 343.22,
+      "phrase_text": "agents, and with AI automation, we can definitely rethink about how work should be done, because a lot of work"
+    },
+    {
+      "segment_id": "seg_0093",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 343.26,
+      "end": 351.1,
+      "phrase_text": "is repetitive. And especially in enterprise level, there, there are a lot of automation, uh, opportunities that"
+    },
+    {
+      "segment_id": "seg_0094",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 351.76,
+      "end": 359.18,
+      "phrase_text": "even low-hanging fruits could be like automating, copy-pasting from one system to another system that ca-... that could be done,"
+    },
+    {
+      "segment_id": "seg_0095",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 359.22,
+      "end": 366.82,
+      "phrase_text": "uh, anyways by literally gluing two APIs together. But now, if you find, like, an horizontal use case where"
+    },
+    {
+      "segment_id": "seg_0096",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 366.86,
+      "end": 371.708,
+      "phrase_text": "across multiple systems...... an AI agent can have an"
+    },
+    {
+      "segment_id": "seg_0097",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 372.848,
+      "end": 374.268,
+      "phrase_text": "a- access to all those tools"
+    },
+    {
+      "segment_id": "seg_0098",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 374.988,
+      "end": 375.468,
+      "phrase_text": "and"
+    },
+    {
+      "segment_id": "seg_0099",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 376.108,
+      "end": 384.088,
+      "phrase_text": "perform those actions across those tools. Uh, it will create an enormous, um, value for"
+    },
+    {
+      "segment_id": "seg_0100",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 384.108,
+      "end": 390.027,
+      "phrase_text": "that particular organization. Uh, and I think it's just the start. It's gonna get bigger."
+    },
+    {
+      "segment_id": "seg_0101",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 390.148,
+      "end": 394.888,
+      "phrase_text": "So, you, you think, uh, that it's like rethinking"
+    },
+    {
+      "segment_id": "seg_0102",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 396.188,
+      "end": 399.128,
+      "phrase_text": "the, the way of working with AI? How do you"
+    },
+    {
+      "segment_id": "seg_0103",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 399.928,
+      "end": 405.747,
+      "phrase_text": "help the company, uh, a client, a, a company, uh, go about it, right?"
+    },
+    {
+      "segment_id": "seg_0104",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 405.848,
+      "end": 409.368,
+      "phrase_text": "So, yeah. The, the, the reason that we"
+    },
+    {
+      "segment_id": "seg_0105",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 410.508,
+      "end": 417.658,
+      "phrase_text": "want to kind of like bring this visibility of reimagining or rethinking how work is done is"
+    },
+    {
+      "segment_id": "seg_0106",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 417.668,
+      "end": 422.408,
+      "phrase_text": "because until now, we have been using computers in a way to"
+    },
+    {
+      "segment_id": "seg_0107",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 423.048,
+      "end": 430.918,
+      "phrase_text": "enable us to do our job better. And now, computers can do the job. So therefore, it's"
+    },
+    {
+      "segment_id": "seg_0108",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 430.948,
+      "end": 434.768,
+      "phrase_text": "time that we have to rethink or reimagine how work is done."
+    },
+    {
+      "segment_id": "seg_0109",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 435.428,
+      "end": 443.048,
+      "phrase_text": "It's not that we're gonna... for example, Excel. Excel was very good to do calculations, but enabled us to do"
+    },
+    {
+      "segment_id": "seg_0110",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 443.088,
+      "end": 450.948,
+      "phrase_text": "better calculation. Now, let's take an example of an AI agent that is doing invoices."
+    },
+    {
+      "segment_id": "seg_0111",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 450.968,
+      "end": 457.528,
+      "phrase_text": "It's gonna do the reconciliation for you. It's gonna do the booking for you. It's gonna do the travel expenses,"
+    },
+    {
+      "segment_id": "seg_0112",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 457.588,
+      "end": 465.548,
+      "phrase_text": "the r- uh, the payroll and everything else for you. So, you have to, at the principal level, rethink"
+    },
+    {
+      "segment_id": "seg_0113",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 465.568,
+      "end": 467.908,
+      "phrase_text": "and reimagine how work should be done."
+    },
+    {
+      "segment_id": "seg_0114",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 467.968,
+      "end": 468.128,
+      "phrase_text": "Yeah."
+    },
+    {
+      "segment_id": "seg_0115",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 468.148,
+      "end": 475.388,
+      "phrase_text": "And that's where we, we play, uh, uh, an extremely, um, crucial role because we not only bring"
+    },
+    {
+      "segment_id": "seg_0116",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 475.428,
+      "end": 477.498,
+      "phrase_text": "in the, um,"
+    },
+    {
+      "segment_id": "seg_0117",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 478.348,
+      "end": 479.718,
+      "phrase_text": "the empowering, uh,"
+    },
+    {
+      "segment_id": "seg_0118",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 480.368,
+      "end": 487.768,
+      "phrase_text": "capabilities, but also from the day one, we, we bring in the discovery phase to it, uh, with workshops"
+    },
+    {
+      "segment_id": "seg_0119",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 487.828,
+      "end": 495.058,
+      "phrase_text": "initially, and then enablement, uh, sessions and development sessions and maintenance and, and so on and so forth."
+    },
+    {
+      "segment_id": "seg_0120",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 495.068,
+      "end": 495.148,
+      "phrase_text": "Yeah."
+    },
+    {
+      "segment_id": "seg_0121",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 495.168,
+      "end": 498.348,
+      "phrase_text": "So, kind of like a 360-degree service company."
+    },
+    {
+      "segment_id": "seg_0122",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 498.358,
+      "end": 506.108,
+      "phrase_text": "'Cause I, I, I hear more and more people saying this, that with, with AI, it's a lot about people"
+    },
+    {
+      "segment_id": "seg_0123",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 506.288,
+      "end": 506.948,
+      "phrase_text": "right now."
+    },
+    {
+      "segment_id": "seg_0124",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 507.868,
+      "end": 508.228,
+      "phrase_text": "Like,"
+    },
+    {
+      "segment_id": "seg_0125",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 508.848,
+      "end": 509.908,
+      "phrase_text": "the tool or the"
+    },
+    {
+      "segment_id": "seg_0126",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 510.648,
+      "end": 514.938,
+      "phrase_text": "brain of AI is already extremely good to do most of the work."
+    },
+    {
+      "segment_id": "seg_0127",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 514.938,
+      "end": 515.248,
+      "phrase_text": "Mm-hmm."
+    },
+    {
+      "segment_id": "seg_0128",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 515.268,
+      "end": 518.048,
+      "phrase_text": "But the issue is how people use it, or"
+    },
+    {
+      "segment_id": "seg_0129",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 518.688,
+      "end": 526.608,
+      "phrase_text": "the famous AI adoption that is not a- as easy, especially the, the bigger the company. Uh, so there"
+    },
+    {
+      "segment_id": "seg_0130",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 526.648,
+      "end": 526.788,
+      "phrase_text": "is"
+    },
+    {
+      "segment_id": "seg_0131",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 528.388,
+      "end": 530.748,
+      "phrase_text": "some help there needed, right?"
+    },
+    {
+      "segment_id": "seg_0132",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 530.808,
+      "end": 538.068,
+      "phrase_text": "Uh, yeah. The AI adoption right now, um, especially the, the, the blockers in SMEs and-"
+    },
+    {
+      "segment_id": "seg_0133",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 538.088,
+      "end": 538.208,
+      "phrase_text": "Mm-hmm."
+    },
+    {
+      "segment_id": "seg_0134",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 538.217,
+      "end": 544.628,
+      "phrase_text": "... big companies, uh, can be understandable because it's not so high and, and the reason is because"
+    },
+    {
+      "segment_id": "seg_0135",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 546.008,
+      "end": 553.128,
+      "phrase_text": "usually these AI, um, models could hallucinate. So, we have guardrails, but they are so"
+    },
+    {
+      "segment_id": "seg_0136",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 553.228,
+      "end": 560.968,
+      "phrase_text": "young. Like, every single project that you can pick that can, um, enable, uh, an"
+    },
+    {
+      "segment_id": "seg_0137",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 561.048,
+      "end": 568.828,
+      "phrase_text": "AI agent to reduce the hallucinations and put the right guardrails, those projects by themselves are like three, four, five,"
+    },
+    {
+      "segment_id": "seg_0138",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 568.848,
+      "end": 571.108,
+      "phrase_text": "six months old. Now,"
+    },
+    {
+      "segment_id": "seg_0139",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 571.988,
+      "end": 573.948,
+      "phrase_text": "the enterprise is not adopting it"
+    },
+    {
+      "segment_id": "seg_0140",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 574.968,
+      "end": 582.928,
+      "phrase_text": "yet, uh, because of the immaturity of those projects. But they're developing so fast that"
+    },
+    {
+      "segment_id": "seg_0141",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 583.108,
+      "end": 584.328,
+      "phrase_text": "I believe in six months,"
+    },
+    {
+      "segment_id": "seg_0142",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 585.308,
+      "end": 587.708,
+      "phrase_text": "they will be enterprise-ready."
+    },
+    {
+      "segment_id": "seg_0143",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 587.728,
+      "end": 587.818,
+      "phrase_text": "Mm-hmm."
+    },
+    {
+      "segment_id": "seg_0144",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 587.818,
+      "end": 591.008,
+      "phrase_text": "But the... on the other side of the spectrum,"
+    },
+    {
+      "segment_id": "seg_0145",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 591.828,
+      "end": 599.588,
+      "phrase_text": "there are certain things that can be used today in, uh, enterprise. Uh, for example, let's take an,"
+    },
+    {
+      "segment_id": "seg_0146",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 599.708,
+      "end": 604.867,
+      "phrase_text": "uh, a simple workflow in n8n. Um, by the way, Avanade is an n8n expert company."
+    },
+    {
+      "segment_id": "seg_0147",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 605.928,
+      "end": 608.828,
+      "phrase_text": "We do n8n workshops and n8n, uh,"
+    },
+    {
+      "segment_id": "seg_0148",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 609.848,
+      "end": 612.068,
+      "phrase_text": "implementation for enterprises."
+    },
+    {
+      "segment_id": "seg_0149",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 612.908,
+      "end": 618.628,
+      "phrase_text": "So, let's take an n8n workflow. You, you do n8n workflows for companies."
+    },
+    {
+      "segment_id": "seg_0150",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 619.808,
+      "end": 626.548,
+      "phrase_text": "You already know how easy it is or how secure it is to, to put an n8n workflow that"
+    },
+    {
+      "segment_id": "seg_0151",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 626.568,
+      "end": 633.568,
+      "phrase_text": "does, let's say, ticket cal- classification. Enterprises get these support tickets in thousands."
+    },
+    {
+      "segment_id": "seg_0152",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 633.588,
+      "end": 634.388,
+      "phrase_text": "Mm-hmm."
+    },
+    {
+      "segment_id": "seg_0153",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 634.408,
+      "end": 637.928,
+      "phrase_text": "And usually, there's a workflow or a process that a human being"
+    },
+    {
+      "segment_id": "seg_0154",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 639.548,
+      "end": 646.508,
+      "phrase_text": "has access to an inbox. Let's say help at Allianz or support at Allianz.de, for"
+    },
+    {
+      "segment_id": "seg_0155",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 646.568,
+      "end": 653.108,
+      "phrase_text": "example. And, and they decide, okay, this label goes to it, this label goes to it, this one goes to"
+    },
+    {
+      "segment_id": "seg_0156",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 653.127,
+      "end": 659.738,
+      "phrase_text": "that department, this one goes to that department. So, there's a lot of labeling and, and, and routing and things"
+    },
+    {
+      "segment_id": "seg_0157",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 659.828,
+      "end": 663.828,
+      "phrase_text": "that today's AI can do it with a very high degree of certainty."
+    },
+    {
+      "segment_id": "seg_0158",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 663.848,
+      "end": 664.408,
+      "phrase_text": "Yeah."
+    },
+    {
+      "segment_id": "seg_0159",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 664.468,
+      "end": 671.528,
+      "phrase_text": "Can be done with today's AI. And also, I, I teach a lot about EU AI Act in my, uh,"
+    },
+    {
+      "segment_id": "seg_0160",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 671.568,
+      "end": 672.288,
+      "phrase_text": "workshops."
+    },
+    {
+      "segment_id": "seg_0161",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 672.298,
+      "end": 673.108,
+      "phrase_text": "Mm-hmm."
+    },
+    {
+      "segment_id": "seg_0162",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 673.148,
+      "end": 676.608,
+      "phrase_text": "Happy to discuss about that more. I don't want to go on a monologue."
+    },
+    {
+      "segment_id": "seg_0163",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 676.648,
+      "end": 676.678,
+      "audio_event": "(laughs)"
+    },
+    {
+      "segment_id": "seg_0164",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 676.688,
+      "end": 677.398,
+      "phrase_text": "Sorry, uh, like this kind of thing."
+    },
+    {
+      "segment_id": "seg_0165",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 677.398,
+      "end": 678.958,
+      "phrase_text": "Yeah, no, no worries. Go on."
+    },
+    {
+      "segment_id": "seg_0166",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 679.008,
+      "end": 686.478,
+      "phrase_text": "But, but, like, these, uh, compliance s- or legal side effect can also be done with n8n and, and with"
+    },
+    {
+      "segment_id": "seg_0167",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 686.508,
+      "end": 694.318,
+      "phrase_text": "the current AI tech stack we have. So, from one side, high-risk, um,"
+    },
+    {
+      "segment_id": "seg_0168",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 694.668,
+      "end": 700.838,
+      "phrase_text": "applications should not be done with AI yet. But in the next six months to one year, it's possible. Uh,"
+    },
+    {
+      "segment_id": "seg_0169",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 700.867,
+      "end": 708.728,
+      "phrase_text": "on the other side, uh, low-risk, um, applications, uh, can be done today with AI. And I think, uh, the"
+    },
+    {
+      "segment_id": "seg_0170",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 708.768,
+      "end": 713.728,
+      "phrase_text": "enterprise is just catching up and it's the best time to provide these services."
+    },
+    {
+      "segment_id": "seg_0171",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 713.808,
+      "end": 714.928,
+      "phrase_text": "Yeah. I think that"
+    },
+    {
+      "segment_id": "seg_0172",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 715.788,
+      "end": 716.228,
+      "phrase_text": "there is,"
+    },
+    {
+      "segment_id": "seg_0173",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 717.028,
+      "end": 722.808,
+      "phrase_text": "there are, as y- as you said, already ways to, to figure out the legal and the, the other kind"
+    },
+    {
+      "segment_id": "seg_0174",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 722.867,
+      "end": 729.568,
+      "phrase_text": "of, of things, right? The, the formalities. But if a company wants to do it and puts in the right"
+    },
+    {
+      "segment_id": "seg_0175",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 729.728,
+      "end": 732.728,
+      "phrase_text": "effort, it's...... working, right?"
+    },
+    {
+      "segment_id": "seg_0176",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 732.768,
+      "end": 732.878,
+      "phrase_text": "Yeah."
+    },
+    {
+      "segment_id": "seg_0177",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 732.888,
+      "end": 734.197,
+      "phrase_text": "You can really do that."
+    },
+    {
+      "segment_id": "seg_0178",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 734.197,
+      "end": 734.197,
+      "phrase_text": "Yes."
+    },
+    {
+      "segment_id": "seg_0179",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 734.228,
+      "end": 741.748,
+      "phrase_text": "And you have, you have said a few things about enterprise and big companies. How do you see, uh, right"
+    },
+    {
+      "segment_id": "seg_0180",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 741.788,
+      "end": 748.368,
+      "phrase_text": "now the- the use cases or the application for, uh, small companies, medium companies that have"
+    },
+    {
+      "segment_id": "seg_0181",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 749.168,
+      "end": 755.128,
+      "phrase_text": "no idea of how to use it? They want to do something with it, but they don't know where to"
+    },
+    {
+      "segment_id": "seg_0182",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 755.228,
+      "end": 757.648,
+      "phrase_text": "start. Like, they are overwhelmed."
+    },
+    {
+      "segment_id": "seg_0183",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 757.788,
+      "end": 758.478,
+      "phrase_text": "Um,"
+    },
+    {
+      "segment_id": "seg_0184",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 759.168,
+      "end": 766.308,
+      "phrase_text": "eh, s- especially small businesses, like for example, this, uh, restaurant, beautiful restaurant, a lot of"
+    },
+    {
+      "segment_id": "seg_0185",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 766.408,
+      "end": 773.968,
+      "phrase_text": "customers. If they start... The- the owner of this restaurant starts thinking about implementing an AI agent in"
+    },
+    {
+      "segment_id": "seg_0186",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 774.028,
+      "end": 781.508,
+      "phrase_text": "their workflow, they are the right people to identify which process is so repeated. Don't-"
+    },
+    {
+      "segment_id": "seg_0187",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 781.528,
+      "end": 781.968,
+      "phrase_text": "Yeah."
+    },
+    {
+      "segment_id": "seg_0188",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 782.068,
+      "end": 789.728,
+      "phrase_text": "Uh, kind of like if I was building AI agents for small restaurants, uh, not chains, small restaurants, I would"
+    },
+    {
+      "segment_id": "seg_0189",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 789.788,
+      "end": 794.008,
+      "phrase_text": "go and talk to them, and I would not tell them that A- AI agents can do this and that."
+    },
+    {
+      "segment_id": "seg_0190",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 794.068,
+      "end": 800.868,
+      "phrase_text": "I wouldn't show them N8N workflows. I wouldn't try to sell all the bells and whistles of AI agents. I"
+    },
+    {
+      "segment_id": "seg_0191",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 800.888,
+      "end": 806.578,
+      "phrase_text": "would go and talk to them, and I would say, \"Can you show me which workflow do you do? Like,"
+    },
+    {
+      "segment_id": "seg_0192",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 806.608,
+      "end": 813.088,
+      "phrase_text": "what is the most repetitive workflow that you do?\" And most probably, you will find a workflow that is doable"
+    },
+    {
+      "segment_id": "seg_0193",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 813.148,
+      "end": 818.918,
+      "phrase_text": "with the current AI agent's workflow automation, uh, I mean, AI, uh, automation."
+    },
+    {
+      "segment_id": "seg_0194",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 819.868,
+      "end": 825.668,
+      "phrase_text": "And then you pick one niche that is so repetitive, like every day they do the same thing again and"
+    },
+    {
+      "segment_id": "seg_0195",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 825.728,
+      "end": 829.498,
+      "phrase_text": "again. For example, they take these slips, they put it in this, like, big, uh,"
+    },
+    {
+      "segment_id": "seg_0196",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 830.168,
+      "end": 835.028,
+      "phrase_text": "pin. It's a pile of slips, and then they kind of like reconcile it somewhere, or key punch it, or"
+    },
+    {
+      "segment_id": "seg_0197",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 835.248,
+      "end": 836.578,
+      "phrase_text": "scan it, or do something with it."
+    },
+    {
+      "segment_id": "seg_0198",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 836.588,
+      "end": 837.708,
+      "phrase_text": "Mm-hmm."
+    },
+    {
+      "segment_id": "seg_0199",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 837.728,
+      "end": 845.048,
+      "phrase_text": "That's doable. Like, in this N8N starter, uh, workshop, one of the workflows is receipt scanning."
+    },
+    {
+      "segment_id": "seg_0200",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 845.548,
+      "end": 851.408,
+      "phrase_text": "Perhaps they need this, uh, receipt scanning. And you- you- you know how to do it. It's so simple."
+    },
+    {
+      "segment_id": "seg_0201",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 851.448,
+      "end": 852.668,
+      "phrase_text": "Yeah, it's simple."
+    },
+    {
+      "segment_id": "seg_0202",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 852.788,
+      "end": 858.908,
+      "phrase_text": "Uh, and then if you can automate that one workflow for them, that they scan a receipt with Google Drive,"
+    },
+    {
+      "segment_id": "seg_0203",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 858.948,
+      "end": 865.168,
+      "phrase_text": "it goes and sits there on a, as a PDF, and it does an entry on Google Sheets. And it"
+    },
+    {
+      "segment_id": "seg_0204",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 865.228,
+      "end": 868.548,
+      "phrase_text": "is perhaps also connected with their POS, their point of sales."
+    },
+    {
+      "segment_id": "seg_0205",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 869.288,
+      "end": 875.818,
+      "phrase_text": "Uh, and- and then maybe it does a s- uh, a push notification with some summaries every hour to the"
+    },
+    {
+      "segment_id": "seg_0206",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 875.928,
+      "end": 876.218,
+      "phrase_text": "owner"
+    },
+    {
+      "segment_id": "seg_0207",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 876.988,
+      "end": 879.888,
+      "phrase_text": "from all the branches that he has on Slack."
+    },
+    {
+      "segment_id": "seg_0208",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 879.897,
+      "end": 879.897,
+      "phrase_text": "Yeah."
+    },
+    {
+      "segment_id": "seg_0209",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 879.908,
+      "end": 885.748,
+      "phrase_text": "This kind of a workflow is already doable. And then you, you do it perfectly for one restaurant, and then"
+    },
+    {
+      "segment_id": "seg_0210",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 885.888,
+      "end": 891.208,
+      "phrase_text": "you start going around in Barcelona city, and then you keep selling it to the next restaurants. I think the"
+    },
+    {
+      "segment_id": "seg_0211",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 891.388,
+      "end": 896.208,
+      "phrase_text": "ROI for this, for let- even if you sell it for a thousand euros,"
+    },
+    {
+      "segment_id": "seg_0212",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 897.188,
+      "end": 900.708,
+      "phrase_text": "and it takes you one hour to install it. Uh, let's say another"
+    },
+    {
+      "segment_id": "seg_0213",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 901.928,
+      "end": 906.508,
+      "phrase_text": "two hours in total accumulated across all your sales pipelines"
+    },
+    {
+      "segment_id": "seg_0214",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 907.348,
+      "end": 915.117,
+      "phrase_text": "per client. So in three hours, you're making a thousand euros. It's an extremely luc- lucrative business. Um,"
+    },
+    {
+      "segment_id": "seg_0215",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 916.088,
+      "end": 917.608,
+      "phrase_text": "now imagine if you can"
+    },
+    {
+      "segment_id": "seg_0216",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 919.088,
+      "end": 925.828,
+      "phrase_text": "sell more of this by hiring people. On the other side, it's also lucrative for the business because something that"
+    },
+    {
+      "segment_id": "seg_0217",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 925.868,
+      "end": 932.188,
+      "phrase_text": "they used to do with hand, with human brain, now can be done with AI. So the ROI for the"
+    },
+    {
+      "segment_id": "seg_0218",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 932.248,
+      "end": 938.518,
+      "phrase_text": "restaurant is positive already. A thousand euro is nothing for a restaurant to put a kind of tech stack that's"
+    },
+    {
+      "segment_id": "seg_0219",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 938.548,
+      "end": 940.598,
+      "phrase_text": "frontier and it's agentic, it's-"
+    },
+    {
+      "segment_id": "seg_0220",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 941.408,
+      "end": 948.548,
+      "phrase_text": "it's top-notch, uh, quality. And also you can provide support with that 1,000 euros. Maybe you- you put another package"
+    },
+    {
+      "segment_id": "seg_0221",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 948.588,
+      "end": 954.568,
+      "phrase_text": "on the top, 300 euros per year for- for unlimited support."
+    },
+    {
+      "segment_id": "seg_0222",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 954.628,
+      "end": 954.968,
+      "phrase_text": "Yeah."
+    },
+    {
+      "segment_id": "seg_0223",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 955.008,
+      "end": 959.728,
+      "phrase_text": "You can imagine like a workflow like that, how much support it needs. But 300 euro is like 30 euros"
+    },
+    {
+      "segment_id": "seg_0224",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 959.808,
+      "end": 960.828,
+      "phrase_text": "subscription per month."
+    },
+    {
+      "segment_id": "seg_0225",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 961.148,
+      "end": 961.568,
+      "phrase_text": "Mm-hmm."
+    },
+    {
+      "segment_id": "seg_0226",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 961.628,
+      "end": 967.587,
+      "phrase_text": "So you build yourself a service business that pays upfront some money, and then on a- on a- on a"
+    },
+    {
+      "segment_id": "seg_0227",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 967.928,
+      "end": 975.568,
+      "phrase_text": "monthly basis, a recurring revenue. And also, when you get into a restaurant, then it's not one workflow. Next time"
+    },
+    {
+      "segment_id": "seg_0228",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 975.588,
+      "end": 977.808,
+      "phrase_text": "they need another workflow, another two, three thousand euro-"
+    },
+    {
+      "segment_id": "seg_0229",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 977.828,
+      "end": 977.837,
+      "phrase_text": "Yeah."
+    },
+    {
+      "segment_id": "seg_0230",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 977.837,
+      "end": 979.068,
+      "phrase_text": "... another two, three thousand euros."
+    },
+    {
+      "segment_id": "seg_0231",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 979.108,
+      "end": 979.308,
+      "phrase_text": "Okay."
+    },
+    {
+      "segment_id": "seg_0232",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 979.328,
+      "end": 983.368,
+      "phrase_text": "So that way you build yourself a- a lucrative ag- AI automation agency business."
+    },
+    {
+      "segment_id": "seg_0233",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 983.408,
+      "end": 984.818,
+      "phrase_text": "Okay. Okay. And"
+    },
+    {
+      "segment_id": "seg_0234",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 985.548,
+      "end": 986.928,
+      "phrase_text": "okay, so you- you have touched"
+    },
+    {
+      "segment_id": "seg_0235",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 987.528,
+      "end": 988.408,
+      "phrase_text": "many points that"
+    },
+    {
+      "segment_id": "seg_0236",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 989.668,
+      "end": 997.438,
+      "phrase_text": "are like now becoming buzzwords and because of the hype around AI agents, blah, blah, blah, all these things"
+    },
+    {
+      "segment_id": "seg_0237",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 997.488,
+      "end": 997.708,
+      "phrase_text": "that"
+    },
+    {
+      "segment_id": "seg_0238",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 998.308,
+      "end": 1001.568,
+      "phrase_text": "we always talk about it. But most people outside"
+    },
+    {
+      "segment_id": "seg_0239",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1002.768,
+      "end": 1010.627,
+      "phrase_text": "our tech bubble don't know yet what does it mean. So if I am, um, a small business or a"
+    },
+    {
+      "segment_id": "seg_0240",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1010.688,
+      "end": 1016.908,
+      "phrase_text": "creative agency, uh, and I have no idea about AI, um,"
+    },
+    {
+      "segment_id": "seg_0241",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1018.468,
+      "end": 1021.208,
+      "phrase_text": "can you explain how to think about"
+    },
+    {
+      "segment_id": "seg_0242",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1021.988,
+      "end": 1028.407,
+      "phrase_text": "the difference maybe between AI agents, workflows, what is an AI agent in"
+    },
+    {
+      "segment_id": "seg_0243",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1029.188,
+      "end": 1033.668,
+      "phrase_text": "three words, and how a business can say, \"Okay, here"
+    },
+    {
+      "segment_id": "seg_0244",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1034.588,
+      "end": 1041.168,
+      "phrase_text": "we need this kind of thing. Here it's better. This, this other stuff.\" You know what I mean?"
+    },
+    {
+      "segment_id": "seg_0245",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1041.228,
+      "end": 1042.208,
+      "phrase_text": "So..."
+    },
+    {
+      "segment_id": "seg_0246",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1042.248,
+      "end": 1042.958,
+      "phrase_text": "In simple-"
+    },
+    {
+      "segment_id": "seg_0247",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1042.958,
+      "end": 1046.188,
+      "phrase_text": "In- in simple words, maybe not three words, a little bit more."
+    },
+    {
+      "segment_id": "seg_0248",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1046.728,
+      "end": 1046.738,
+      "audio_event": "(laughs)"
+    },
+    {
+      "segment_id": "seg_0249",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1046.748,
+      "end": 1048.248,
+      "phrase_text": "Uh, like 30 words, let's say."
+    },
+    {
+      "segment_id": "seg_0250",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1048.268,
+      "end": 1048.278,
+      "audio_event": "(laughs)"
+    },
+    {
+      "segment_id": "seg_0251",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1048.308,
+      "end": 1049.208,
+      "phrase_text": "Okay, 30."
+    },
+    {
+      "segment_id": "seg_0252",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1049.288,
+      "end": 1049.668,
+      "phrase_text": "Um,"
+    },
+    {
+      "segment_id": "seg_0253",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1050.468,
+      "end": 1052.208,
+      "phrase_text": "if I want to explain"
+    },
+    {
+      "segment_id": "seg_0254",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1052.848,
+      "end": 1058.768,
+      "phrase_text": "what is an AI agent to my mother, that's how I will explain it."
+    },
+    {
+      "segment_id": "seg_0255",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1058.828,
+      "end": 1059.048,
+      "phrase_text": "Yeah."
+    },
+    {
+      "segment_id": "seg_0256",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1060.528,
+      "end": 1061.757,
+      "phrase_text": "An AI agent"
+    },
+    {
+      "segment_id": "seg_0257",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1062.508,
+      "end": 1067.648,
+      "phrase_text": "is a software, um, that mimics the way"
+    },
+    {
+      "segment_id": "seg_0258",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1069.168,
+      "end": 1069.808,
+      "phrase_text": "a human"
+    },
+    {
+      "segment_id": "seg_0259",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1070.468,
+      "end": 1078.348,
+      "phrase_text": "performs tasks on a computer. That basically can work like the way a human can work on a"
+    },
+    {
+      "segment_id": "seg_0260",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1078.408,
+      "end": 1086.168,
+      "phrase_text": "computer. There are different types of AI agents, the same way as there are different types of people using computers."
+    },
+    {
+      "segment_id": "seg_0261",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1087.228,
+      "end": 1088.988,
+      "phrase_text": "For example, there's a person"
+    },
+    {
+      "segment_id": "seg_0262",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1090.528,
+      "end": 1092.808,
+      "phrase_text": "using Google Sheets doing accounting."
+    },
+    {
+      "segment_id": "seg_0263",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1093.868,
+      "end": 1101.548,
+      "phrase_text": "Uh, or there's a person using Google Docs.... writing, uh, documentation about something."
+    },
+    {
+      "segment_id": "seg_0264",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1101.608,
+      "end": 1109.348,
+      "phrase_text": "And that's how the AI agents can be different. And the, the most important part about AI agent is it"
+    },
+    {
+      "segment_id": "seg_0265",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1109.428,
+      "end": 1111.788,
+      "phrase_text": "has like, why do we call it agent?"
+    },
+    {
+      "segment_id": "seg_0266",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1111.868,
+      "end": 1111.878,
+      "phrase_text": "Yeah."
+    },
+    {
+      "segment_id": "seg_0267",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1111.888,
+      "end": 1112.768,
+      "phrase_text": "Because it has"
+    },
+    {
+      "segment_id": "seg_0268",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1113.868,
+      "end": 1121.048,
+      "phrase_text": "agency. It can do things on its own. Um, the same way like James Bond, for example, if we take"
+    },
+    {
+      "segment_id": "seg_0269",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1121.108,
+      "end": 1123.598,
+      "phrase_text": "James Bond as a connotation, um,"
+    },
+    {
+      "segment_id": "seg_0270",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1124.228,
+      "end": 1126.188,
+      "phrase_text": "James Bond is an agent."
+    },
+    {
+      "segment_id": "seg_0271",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1126.228,
+      "end": 1126.428,
+      "phrase_text": "Okay."
+    },
+    {
+      "segment_id": "seg_0272",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1126.448,
+      "end": 1132.538,
+      "phrase_text": "He's a 007 A- agent, uh, of, um... Which country is it? US or, or British?"
+    },
+    {
+      "segment_id": "seg_0273",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1133.088,
+      "end": 1133.138,
+      "phrase_text": "UK."
+    },
+    {
+      "segment_id": "seg_0274",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1133.138,
+      "end": 1133.908,
+      "phrase_text": "UK, British."
+    },
+    {
+      "segment_id": "seg_0275",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1135.048,
+      "end": 1140.368,
+      "phrase_text": "So, he goes and performs tasks in other co- uh, in other countries or in the same country, and then"
+    },
+    {
+      "segment_id": "seg_0276",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1140.408,
+      "end": 1142.948,
+      "phrase_text": "he has tools, uh, that he"
+    },
+    {
+      "segment_id": "seg_0277",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1143.748,
+      "end": 1150.688,
+      "phrase_text": "has, like a car that can drive and that can swim, that can fire, that can change the number plates."
+    },
+    {
+      "segment_id": "seg_0278",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1150.708,
+      "end": 1152.988,
+      "phrase_text": "That tool is important. So an AI agent"
+    },
+    {
+      "segment_id": "seg_0279",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1153.608,
+      "end": 1160.068,
+      "phrase_text": "can have like a Google Sheet as a tool that can perform accounting tasks or can have a Gmail access"
+    },
+    {
+      "segment_id": "seg_0280",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1160.108,
+      "end": 1166.748,
+      "phrase_text": "that can perform, um, an email com- composing an email. Uh, and, and then"
+    },
+    {
+      "segment_id": "seg_0281",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1167.888,
+      "end": 1175.508,
+      "phrase_text": "James Bond has a very sharp memory. He can remember things. Uh, he can memorize things because he wants to"
+    },
+    {
+      "segment_id": "seg_0282",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1175.548,
+      "end": 1180.108,
+      "phrase_text": "make sure that he can find the right criminal at the right time and then take it to the law."
+    },
+    {
+      "segment_id": "seg_0283",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1180.988,
+      "end": 1185.648,
+      "phrase_text": "And so is the case with an AI agent. An AI agent needs to kind of like remember things. For"
+    },
+    {
+      "segment_id": "seg_0284",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1185.708,
+      "end": 1188.128,
+      "phrase_text": "example, if I ha- I have built an AI agent that"
+    },
+    {
+      "segment_id": "seg_0285",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1188.768,
+      "end": 1191.108,
+      "phrase_text": "takes care of my email inbox"
+    },
+    {
+      "segment_id": "seg_0286",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1191.748,
+      "end": 1197.408,
+      "phrase_text": "and I say that compose an email or send an email to John Doe and mention that I am gonna"
+    },
+    {
+      "segment_id": "seg_0287",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1197.428,
+      "end": 1201.128,
+      "phrase_text": "be 20 minutes late, it should remember that who is John Doe"
+    },
+    {
+      "segment_id": "seg_0288",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1201.848,
+      "end": 1207.048,
+      "phrase_text": "and where can I find his, his email address, and that's the memory part of an AI agent. So an"
+    },
+    {
+      "segment_id": "seg_0289",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1207.108,
+      "end": 1214.848,
+      "phrase_text": "AI agent should have, uh, a memory, intelligence, agency, tools attached to that, and it should perform"
+    },
+    {
+      "segment_id": "seg_0290",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1214.928,
+      "end": 1221.228,
+      "phrase_text": "tasks on your behalf based on fuzzy instructions in a natural language, whether this be chat or a voice or"
+    },
+    {
+      "segment_id": "seg_0291",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1221.708,
+      "end": 1226.768,
+      "phrase_text": "connected to another system based on a trigger from another system. But it should have agency and it should learn"
+    },
+    {
+      "segment_id": "seg_0292",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1226.828,
+      "end": 1230.508,
+      "phrase_text": "over time. Sorry, that was not three words or 30 words."
+    },
+    {
+      "segment_id": "seg_0293",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1230.517,
+      "end": 1231.008,
+      "audio_event": "(laughs)"
+    },
+    {
+      "segment_id": "seg_0294",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1231.028,
+      "end": 1236.388,
+      "phrase_text": "I, I, I've never heard that, but I, I love the James Bond comparison. Now, I, I'm"
+    },
+    {
+      "segment_id": "seg_0295",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1237.188,
+      "end": 1241.628,
+      "phrase_text": "building in my head a world around an AI agent like James Bond."
+    },
+    {
+      "segment_id": "seg_0296",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1241.728,
+      "end": 1242.188,
+      "phrase_text": "Yeah."
+    },
+    {
+      "segment_id": "seg_0297",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1242.248,
+      "end": 1250.028,
+      "phrase_text": "Yeah, it makes sense because like James Bonds receives from his boss, uh, like a goal-"
+    },
+    {
+      "segment_id": "seg_0298",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1250.048,
+      "end": 1250.058,
+      "phrase_text": "Yeah."
+    },
+    {
+      "segment_id": "seg_0299",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1250.058,
+      "end": 1250.228,
+      "phrase_text": "... like"
+    },
+    {
+      "segment_id": "seg_0300",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1250.947,
+      "end": 1254.188,
+      "phrase_text": "find this criminal and kill him, let's say."
+    },
+    {
+      "segment_id": "seg_0301",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1254.197,
+      "end": 1254.238,
+      "audio_event": "(laughs)"
+    },
+    {
+      "segment_id": "seg_0302",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1254.248,
+      "end": 1256.428,
+      "phrase_text": "Right? And it's something like that, right?"
+    },
+    {
+      "segment_id": "seg_0303",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1256.468,
+      "end": 1259.178,
+      "phrase_text": "I hope he doesn't kill him and bring him to prison, but..."
+    },
+    {
+      "segment_id": "seg_0304",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1259.178,
+      "end": 1259.197,
+      "audio_event": "(laughs)"
+    },
+    {
+      "segment_id": "seg_0305",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1259.208,
+      "end": 1261.968,
+      "phrase_text": "Okay. Okay. Right. Let's say bring him to prison."
+    },
+    {
+      "segment_id": "seg_0306",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1261.978,
+      "end": 1262.878,
+      "audio_event": "(laughs)"
+    },
+    {
+      "segment_id": "seg_0307",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1262.908,
+      "end": 1266.908,
+      "phrase_text": "So you, you give the AI agent as well a goal, right?"
+    },
+    {
+      "segment_id": "seg_0308",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1266.928,
+      "end": 1267.368,
+      "phrase_text": "Yes."
+    },
+    {
+      "segment_id": "seg_0309",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1267.408,
+      "end": 1273.868,
+      "phrase_text": "You can give it a goal and you give it tools, maybe an Excel, Google Sheet is not as cool"
+    },
+    {
+      "segment_id": "seg_0310",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1273.988,
+      "end": 1276.228,
+      "phrase_text": "as James Bond car, but-"
+    },
+    {
+      "segment_id": "seg_0311",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1276.268,
+      "end": 1277.028,
+      "phrase_text": "Yeah."
+    },
+    {
+      "segment_id": "seg_0312",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1277.038,
+      "end": 1280.728,
+      "phrase_text": "... does the job. So he can then pick the right tools"
+    },
+    {
+      "segment_id": "seg_0313",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1281.888,
+      "end": 1285.428,
+      "phrase_text": "in the order that the brain of the AI agent-"
+    },
+    {
+      "segment_id": "seg_0314",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1285.447,
+      "end": 1285.458,
+      "phrase_text": "Yeah."
+    },
+    {
+      "segment_id": "seg_0315",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1285.458,
+      "end": 1289.228,
+      "phrase_text": "... at the side, right? To reach a certain goal basically."
+    },
+    {
+      "segment_id": "seg_0316",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1289.268,
+      "end": 1289.798,
+      "phrase_text": "Yes."
+    },
+    {
+      "segment_id": "seg_0317",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1289.848,
+      "end": 1290.408,
+      "phrase_text": "Make sense?"
+    },
+    {
+      "segment_id": "seg_0318",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1290.468,
+      "end": 1293.318,
+      "phrase_text": "We can, uh, do that kind of a connotation. I think, uh,"
+    },
+    {
+      "segment_id": "seg_0319",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1294.568,
+      "end": 1298.108,
+      "phrase_text": "there must be a dozen more metaphors that we can come up with."
+    },
+    {
+      "segment_id": "seg_0320",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1298.118,
+      "end": 1298.118,
+      "phrase_text": "Yeah."
+    },
+    {
+      "segment_id": "seg_0321",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1298.148,
+      "end": 1299.468,
+      "phrase_text": "ChatGPT should help."
+    },
+    {
+      "segment_id": "seg_0322",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1299.478,
+      "end": 1299.947,
+      "audio_event": "(laughs)"
+    },
+    {
+      "segment_id": "seg_0323",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1300.028,
+      "end": 1307.408,
+      "phrase_text": "Okay. Okay. That's, that's great. And so just to wrap it up, when, in which"
+    },
+    {
+      "segment_id": "seg_0324",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1307.417,
+      "end": 1315.268,
+      "phrase_text": "situations, um, in the processing of a businesses, of a business, it makes sense to use"
+    },
+    {
+      "segment_id": "seg_0325",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1315.308,
+      "end": 1322.788,
+      "phrase_text": "an agent with agency, as we said, or just a plain workflow that always do the same"
+    },
+    {
+      "segment_id": "seg_0326",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1323.488,
+      "end": 1324.708,
+      "phrase_text": "steps?"
+    },
+    {
+      "segment_id": "seg_0327",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1324.828,
+      "end": 1332.568,
+      "phrase_text": "So, um, if you have an, a workflow, better to be on n8n. Uh, if you have an n8n"
+    },
+    {
+      "segment_id": "seg_0328",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1332.668,
+      "end": 1334.208,
+      "phrase_text": "workflow,"
+    },
+    {
+      "segment_id": "seg_0329",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1335.668,
+      "end": 1338.758,
+      "phrase_text": "when to decide to put an AI agent or, or, or-"
+    },
+    {
+      "segment_id": "seg_0330",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1338.768,
+      "end": 1339.008,
+      "phrase_text": "Yeah."
+    },
+    {
+      "segment_id": "seg_0331",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1339.028,
+      "end": 1341.128,
+      "phrase_text": "... when to put, uh, AI capabilities in it,"
+    },
+    {
+      "segment_id": "seg_0332",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1341.888,
+      "end": 1343.708,
+      "phrase_text": "eh, it will kind of like"
+    },
+    {
+      "segment_id": "seg_0333",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1344.488,
+      "end": 1350.248,
+      "phrase_text": "become visible as soon as you start building it. If it's something to do with very"
+    },
+    {
+      "segment_id": "seg_0334",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1351.008,
+      "end": 1352.288,
+      "phrase_text": "unclear inputs,"
+    },
+    {
+      "segment_id": "seg_0335",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1353.048,
+      "end": 1357.168,
+      "phrase_text": "then most probably you need an AI agent node in n8n."
+    },
+    {
+      "segment_id": "seg_0336",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1357.178,
+      "end": 1357.178,
+      "phrase_text": "Mm-hmm."
+    },
+    {
+      "segment_id": "seg_0337",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1357.228,
+      "end": 1363.648,
+      "phrase_text": "For example, coming back to this receipt for this restaurant. Receipts can be scanned"
+    },
+    {
+      "segment_id": "seg_0338",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1364.328,
+      "end": 1371.748,
+      "phrase_text": "and receipts can be of different types of data input. It already is indicating that it needs AI integration"
+    },
+    {
+      "segment_id": "seg_0339",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1371.828,
+      "end": 1379.768,
+      "phrase_text": "because the amount of data that's coming in, the types of input is so much different."
+    },
+    {
+      "segment_id": "seg_0340",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1379.848,
+      "end": 1383.918,
+      "phrase_text": "And AI is very good in recognizing patterns and extracting text from"
+    },
+    {
+      "segment_id": "seg_0341",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1384.768,
+      "end": 1392.488,
+      "phrase_text": "multiple different types of data input and then finding the right description for that invoice, the right date,"
+    },
+    {
+      "segment_id": "seg_0342",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1393.028,
+      "end": 1399.288,
+      "phrase_text": "because one invoice or one receipt can have a date setting somewhere else, one in somewhere else. Um,"
+    },
+    {
+      "segment_id": "seg_0343",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1400.648,
+      "end": 1407.048,
+      "phrase_text": "and extracting the amount, description, and so on. That is already an indication that you need an AI integration in"
+    },
+    {
+      "segment_id": "seg_0344",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1407.068,
+      "end": 1411.588,
+      "phrase_text": "your workflow. But on the other side, if you want to have a workflow that is just like running"
+    },
+    {
+      "segment_id": "seg_0345",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1412.328,
+      "end": 1418.968,
+      "phrase_text": "and doing something, it will li- automatically be identified because, for example, you have an API from one side, you're"
+    },
+    {
+      "segment_id": "seg_0346",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1419.048,
+      "end": 1424.968,
+      "phrase_text": "sucking in all that data, you're sanitizing it, you're cleaning it, and you're dumping it in a, in a database."
+    },
+    {
+      "segment_id": "seg_0347",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1425.008,
+      "end": 1429.648,
+      "phrase_text": "In that case, you don't need AI because it's just like a pipeline that goes like from one, data flows"
+    },
+    {
+      "segment_id": "seg_0348",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1429.688,
+      "end": 1431.608,
+      "phrase_text": "from one side, goes to the other side."
+    },
+    {
+      "segment_id": "seg_0349",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1431.628,
+      "end": 1431.918,
+      "phrase_text": "Mm-hmm."
+    },
+    {
+      "segment_id": "seg_0350",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1432.008,
+      "end": 1435.408,
+      "phrase_text": "So in that case, you don't need, uh, any AI integration."
+    },
+    {
+      "segment_id": "seg_0351",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1435.468,
+      "end": 1435.688,
+      "phrase_text": "Okay."
+    },
+    {
+      "segment_id": "seg_0352",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1435.768,
+      "end": 1440.498,
+      "phrase_text": "I think it's just the workflow when you start building it, it will identify itself that, oh, okay, here I,"
+    },
+    {
+      "segment_id": "seg_0353",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1440.498,
+      "end": 1446.468,
+      "phrase_text": "I need AI. And then it's agentic and it's an AI automation. Uh, and, and gradually, it will"
+    },
+    {
+      "segment_id": "seg_0354",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1447.268,
+      "end": 1454.508,
+      "phrase_text": "go to that AI agent world where it has at least this brain, the ChatGPT model, the, the, the"
+    },
+    {
+      "segment_id": "seg_0355",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1454.588,
+      "end": 1457.488,
+      "phrase_text": "memory, and the tools. Those three basic"
+    },
+    {
+      "segment_id": "seg_0356",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1458.148,
+      "end": 1461.048,
+      "phrase_text": "ingredients that makes an AI agent, an AI agent."
+    },
+    {
+      "segment_id": "seg_0357",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1461.308,
+      "end": 1469.148,
+      "phrase_text": "Mm-hmm. Okay. Yeah. So when the things are, yeah, not clear and usually need a human to decide what"
+    },
+    {
+      "segment_id": "seg_0358",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1469.228,
+      "end": 1471.128,
+      "phrase_text": "to do, it's the right place"
+    },
+    {
+      "segment_id": "seg_0359",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1471.748,
+      "end": 1474.128,
+      "phrase_text": "to, to use an AI agent, right?"
+    },
+    {
+      "segment_id": "seg_0360",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1474.168,
+      "end": 1474.708,
+      "phrase_text": "Yes."
+    },
+    {
+      "segment_id": "seg_0361",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1474.748,
+      "end": 1476.148,
+      "phrase_text": "Yes. Okay."
+    },
+    {
+      "segment_id": "seg_0362",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1476.188,
+      "end": 1476.598,
+      "phrase_text": "Wonderful."
+    },
+    {
+      "segment_id": "seg_0363",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1476.598,
+      "end": 1477.208,
+      "audio_event": "(laughs)"
+    },
+    {
+      "segment_id": "seg_0364",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1477.228,
+      "end": 1478.668,
+      "phrase_text": "Wonderful. I think we can"
+    },
+    {
+      "segment_id": "seg_0365",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1479.888,
+      "end": 1481.028,
+      "phrase_text": "stop it here, right?"
+    },
+    {
+      "segment_id": "seg_0366",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1481.188,
+      "end": 1481.458,
+      "phrase_text": "Wrap it up. Thank you so much."
+    },
+    {
+      "segment_id": "seg_0367",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1481.468,
+      "end": 1483.447,
+      "phrase_text": "And finish our beer. Thanks. Thanks to you."
+    },
+    {
+      "segment_id": "seg_0368",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1483.458,
+      "end": 1483.498,
+      "phrase_text": "Yeah. Thank you so much."
+    },
+    {
+      "segment_id": "seg_0369",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1483.498,
+      "end": 1485.508,
+      "phrase_text": "This was like random."
+    },
+    {
+      "segment_id": "seg_0370",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1485.548,
+      "end": 1486.697,
+      "phrase_text": "Yeah. Wait, wait a minute. Let's-"
+    },
+    {
+      "segment_id": "seg_0371",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1486.728,
+      "end": 1486.858,
+      "phrase_text": "Yeah."
+    },
+    {
+      "segment_id": "seg_0372",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1486.858,
+      "end": 1489.028,
+      "phrase_text": "Let us, let us show you the, the-"
+    },
+    {
+      "segment_id": "seg_0373",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1489.038,
+      "end": 1489.038,
+      "phrase_text": "Yeah."
+    },
+    {
+      "segment_id": "seg_0374",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1489.038,
+      "end": 1491.888,
+      "phrase_text": "... the scene actually. Is it okay if we show the scene?"
+    },
+    {
+      "segment_id": "seg_0375",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1491.928,
+      "end": 1492.608,
+      "phrase_text": "Yeah, sure."
+    },
+    {
+      "segment_id": "seg_0376",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1492.628,
+      "end": 1498.128,
+      "phrase_text": "Yeah, let's, let's go and s- show the scene. Where are we sitting? This is how we generate contents."
+    },
+    {
+      "segment_id": "seg_0377",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1498.138,
+      "end": 1499.288,
+      "audio_event": "(laughs)"
+    },
+    {
+      "segment_id": "seg_0378",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1499.348,
+      "end": 1506.888,
+      "phrase_text": "So I learned from Amel today to just vibe code... no, vibe my content. And so we"
+    },
+    {
+      "segment_id": "seg_0379",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1506.947,
+      "end": 1508.947,
+      "phrase_text": "randomly stopped here"
+    },
+    {
+      "segment_id": "seg_0380",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1509.588,
+      "end": 1510.688,
+      "phrase_text": "and decided to-"
+    },
+    {
+      "segment_id": "seg_0381",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1510.697,
+      "end": 1510.697,
+      "phrase_text": "Yeah."
+    },
+    {
+      "segment_id": "seg_0382",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1510.697,
+      "end": 1511.298,
+      "phrase_text": "... to have a talk."
+    },
+    {
+      "segment_id": "seg_0383",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1511.298,
+      "end": 1512.128,
+      "phrase_text": "But take that stage."
+    },
+    {
+      "segment_id": "seg_0384",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1512.138,
+      "end": 1512.138,
+      "phrase_text": "Yeah."
+    },
+    {
+      "segment_id": "seg_0385",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1512.148,
+      "end": 1518.408,
+      "phrase_text": "That stage was so nice. And I think, uh, take, take this entire stage. Look at that. Like, if I,"
+    },
+    {
+      "segment_id": "seg_0386",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1519.228,
+      "end": 1519.238,
+      "phrase_text": "if I-"
+    },
+    {
+      "segment_id": "seg_0387",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1519.238,
+      "end": 1520.348,
+      "phrase_text": "It was made for it."
+    },
+    {
+      "segment_id": "seg_0388",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1520.388,
+      "end": 1524.588,
+      "phrase_text": "Yeah, it was literally waiting for us to, to take this stage-"
+    },
+    {
+      "segment_id": "seg_0389",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1524.598,
+      "end": 1525.088,
+      "audio_event": "(laughs)"
+    },
+    {
+      "segment_id": "seg_0390",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1525.148,
+      "end": 1530.447,
+      "phrase_text": "... uh, and literally do this, uh, in a way that we did it. Thank you so much for the"
+    },
+    {
+      "segment_id": "seg_0391",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1530.488,
+      "end": 1530.888,
+      "phrase_text": "interview."
+    },
+    {
+      "segment_id": "seg_0392",
+      "speaker_id": "speaker_0",
+      "speaker_label": "speaker_name",
+      "start": 1530.928,
+      "end": 1531.118,
+      "phrase_text": "Thanks, Amel."
+    },
+    {
+      "segment_id": "seg_0393",
+      "speaker_id": "speaker_1",
+      "speaker_label": "speaker_name",
+      "start": 1531.118,
+      "end": 1534.208,
+      "phrase_text": "It's a very nice content."
+    }
+  ],
+  "full_text": "Hi, Hemal. How are you? I'm doing good, Nicola. Thank you so much for inviting me for beer. Yeah, I think we should start with a toast, right? (laughs) Yeah. Cheers. Cheers. Cheers. Ah, nice beer. Nice one. So... So, yeah, how, how do we met? We met yesterday for the first time in real life. Yes. And now we are here talking- Yes. ... and spending some time together. Yes. That's so cool. Thank you so much, uh, for this, uh, invitation for this interview. Mm-hmm. Yesterday, we had an amazing, uh, n8n starter session in Barcelona. It's an official tour from n8n across seven countries, Europe and US. Um, it was great to meet you. Yeah. Thank you. And there were so many people. The vibes were, were so great. Yes. And, and I was actually... We were talking about this before, right? I was inspired by hearing your story. And apart from all the cool stuff that you do with n8n, automations, AI, th- which is amazing, but what I really like and, um, relate to you was, like, your motivation behind all of this, like, why you are doing this. Sure. (laughs) Why you are doing this? Thank you. Thank you so much. Yeah, uh, to be honest, the reason I'm, uh, I'm doing all this AI education, especially with the monthly, um, free workshops and all the n8n ambassador program, uh, is because, uh, I started learning coding when I was, like, 16 year old or 15 years old, um, in a developing country, um, or even underdeveloped as a refugee in Pakistan. Um, and the reason that I was exposed to this, uh, computer programming education early on in my life, despite having very mediocre lifestyle or, or maybe even a poor lifestyle I would say, uh, that it, uh, early exposure to, to AI... not AI, but, like, coding, brought me today here where I am. Otherwise, I might have ended up in a totally different, uh, circumstance in my life, financially speaking, educationally, and also lifestyle-wise. And I want to pay back to the community and, and, and teach a lot of, uh, 16 years old kids around the world, whether this be in India, Pakistan, Afghanistan, Bangladesh, uh, South America, wh- wherever it is. Like, uh, there are a lot of developing countries with internet connections that they can play a YouTube video. And if get, they get, uh, one of my YouTube videos, uh, and they, they learn how to build, uh, something, I, I would be really, really happy. And it's just the start of the journey. I'm- Yeah, just the beginning. ... way far away from that first million 16 year old kids who will, uh, who will learn from my content. Mm-hmm. Yeah. I see. I s-... That's, like, really the best mission. And I remember yesterday you were saying that you're already hearing back stories from, from kids in, in India or, or somewhere else that- Yeah. ... writes you, right? Yeah. Saying, \"I, I watched your video, and it was so helpful, so clear, like this, uh, eight hours long video.\" Yeah. \"And I can just followed it, put in, uh, in, in the work, and help someone in, in my community, my neighborhood, the, the shop nearby, the, the, um, the doctor, and-\" Yes. \"... help them right away thanks to code and AI.\" Yes, uh, that- That's super cool. ... uh, that's amazing. Like, each time I get these either shout-outs on LinkedIn that people learned something, did something, or, or they send me a DM, they say like, \"Thank you so much for this tutorial you're putting in.\" It's, it's, um, kind of the fuel I need in order to produce more and more and more. Uh, and, and this kid from India sent me a message that he started building this little voice AI agent. And, uh, many, many more like those examples come. Mm-hmm. And it's, as I said, it's just the start. I, I started my journey literally a few months ago, and it's gonna get, uh, I think, bigger and bigger. I'm, uh- It's moving pretty fast. I'm so passionate about this. Yeah. Yeah. And, and then I, I think you have just, uh, started a company in the last month- Yeah. ... or last few months. Yeah. Right? What, what's your, um, uh, goal with that? Or what do you... what are you cooking now? So, with this new company, Avinai, um, Chris and I are, uh, building AI agents, or kind of in a metaphorical way, we are reimagining work. Uh, we believe that in the near future, the work as we know it will change. And we at Avinai are at the fore- at the forefront of reimagining how work is done. Uh, and I, I believe with this agentic workflows, with AI agents, and with AI automation, we can definitely rethink about how work should be done, because a lot of work is repetitive. And especially in enterprise level, there, there are a lot of automation, uh, opportunities that even low-hanging fruits could be like automating, copy-pasting from one system to another system that ca-... that could be done, uh, anyways by literally gluing two APIs together. But now, if you find, like, an horizontal use case where across multiple systems...... an AI agent can have an a- access to all those tools and perform those actions across those tools. Uh, it will create an enormous, um, value for that particular organization. Uh, and I think it's just the start. It's gonna get bigger. So, you, you think, uh, that it's like rethinking the, the way of working with AI? How do you help the company, uh, a client, a, a company, uh, go about it, right? So, yeah. The, the, the reason that we want to kind of like bring this visibility of reimagining or rethinking how work is done is because until now, we have been using computers in a way to enable us to do our job better. And now, computers can do the job. So therefore, it's time that we have to rethink or reimagine how work is done. It's not that we're gonna... for example, Excel. Excel was very good to do calculations, but enabled us to do better calculation. Now, let's take an example of an AI agent that is doing invoices. It's gonna do the reconciliation for you. It's gonna do the booking for you. It's gonna do the travel expenses, the r- uh, the payroll and everything else for you. So, you have to, at the principal level, rethink and reimagine how work should be done. Yeah. And that's where we, we play, uh, uh, an extremely, um, crucial role because we not only bring in the, um, the empowering, uh, capabilities, but also from the day one, we, we bring in the discovery phase to it, uh, with workshops initially, and then enablement, uh, sessions and development sessions and maintenance and, and so on and so forth. Yeah. So, kind of like a 360-degree service company. 'Cause I, I, I hear more and more people saying this, that with, with AI, it's a lot about people right now. Like, the tool or the brain of AI is already extremely good to do most of the work. Mm-hmm. But the issue is how people use it, or the famous AI adoption that is not a- as easy, especially the, the bigger the company. Uh, so there is some help there needed, right? Uh, yeah. The AI adoption right now, um, especially the, the, the blockers in SMEs and- Mm-hmm. ... big companies, uh, can be understandable because it's not so high and, and the reason is because usually these AI, um, models could hallucinate. So, we have guardrails, but they are so young. Like, every single project that you can pick that can, um, enable, uh, an AI agent to reduce the hallucinations and put the right guardrails, those projects by themselves are like three, four, five, six months old. Now, the enterprise is not adopting it yet, uh, because of the immaturity of those projects. But they're developing so fast that I believe in six months, they will be enterprise-ready. Mm-hmm. But the... on the other side of the spectrum, there are certain things that can be used today in, uh, enterprise. Uh, for example, let's take an, uh, a simple workflow in n8n. Um, by the way, Avanade is an n8n expert company. We do n8n workshops and n8n, uh, implementation for enterprises. So, let's take an n8n workflow. You, you do n8n workflows for companies. You already know how easy it is or how secure it is to, to put an n8n workflow that does, let's say, ticket cal- classification. Enterprises get these support tickets in thousands. Mm-hmm. And usually, there's a workflow or a process that a human being has access to an inbox. Let's say help at Allianz or support at Allianz.de, for example. And, and they decide, okay, this label goes to it, this label goes to it, this one goes to that department, this one goes to that department. So, there's a lot of labeling and, and, and routing and things that today's AI can do it with a very high degree of certainty. Yeah. Can be done with today's AI. And also, I, I teach a lot about EU AI Act in my, uh, workshops. Mm-hmm. Happy to discuss about that more. I don't want to go on a monologue. (laughs) Sorry, uh, like this kind of thing. Yeah, no, no worries. Go on. But, but, like, these, uh, compliance s- or legal side effect can also be done with n8n and, and with the current AI tech stack we have. So, from one side, high-risk, um, applications should not be done with AI yet. But in the next six months to one year, it's possible. Uh, on the other side, uh, low-risk, um, applications, uh, can be done today with AI. And I think, uh, the enterprise is just catching up and it's the best time to provide these services. Yeah. I think that there is, there are, as y- as you said, already ways to, to figure out the legal and the, the other kind of, of things, right? The, the formalities. But if a company wants to do it and puts in the right effort, it's...... working, right? Yeah. You can really do that. Yes. And you have, you have said a few things about enterprise and big companies. How do you see, uh, right now the- the use cases or the application for, uh, small companies, medium companies that have no idea of how to use it? They want to do something with it, but they don't know where to start. Like, they are overwhelmed. Um, eh, s- especially small businesses, like for example, this, uh, restaurant, beautiful restaurant, a lot of customers. If they start... The- the owner of this restaurant starts thinking about implementing an AI agent in their workflow, they are the right people to identify which process is so repeated. Don't- Yeah. Uh, kind of like if I was building AI agents for small restaurants, uh, not chains, small restaurants, I would go and talk to them, and I would not tell them that A- AI agents can do this and that. I wouldn't show them N8N workflows. I wouldn't try to sell all the bells and whistles of AI agents. I would go and talk to them, and I would say, \"Can you show me which workflow do you do? Like, what is the most repetitive workflow that you do?\" And most probably, you will find a workflow that is doable with the current AI agent's workflow automation, uh, I mean, AI, uh, automation. And then you pick one niche that is so repetitive, like every day they do the same thing again and again. For example, they take these slips, they put it in this, like, big, uh, pin. It's a pile of slips, and then they kind of like reconcile it somewhere, or key punch it, or scan it, or do something with it. Mm-hmm. That's doable. Like, in this N8N starter, uh, workshop, one of the workflows is receipt scanning. Perhaps they need this, uh, receipt scanning. And you- you- you know how to do it. It's so simple. Yeah, it's simple. Uh, and then if you can automate that one workflow for them, that they scan a receipt with Google Drive, it goes and sits there on a, as a PDF, and it does an entry on Google Sheets. And it is perhaps also connected with their POS, their point of sales. Uh, and- and then maybe it does a s- uh, a push notification with some summaries every hour to the owner from all the branches that he has on Slack. Yeah. This kind of a workflow is already doable. And then you, you do it perfectly for one restaurant, and then you start going around in Barcelona city, and then you keep selling it to the next restaurants. I think the ROI for this, for let- even if you sell it for a thousand euros, and it takes you one hour to install it. Uh, let's say another two hours in total accumulated across all your sales pipelines per client. So in three hours, you're making a thousand euros. It's an extremely luc- lucrative business. Um, now imagine if you can sell more of this by hiring people. On the other side, it's also lucrative for the business because something that they used to do with hand, with human brain, now can be done with AI. So the ROI for the restaurant is positive already. A thousand euro is nothing for a restaurant to put a kind of tech stack that's frontier and it's agentic, it's- it's top-notch, uh, quality. And also you can provide support with that 1,000 euros. Maybe you- you put another package on the top, 300 euros per year for- for unlimited support. Yeah. You can imagine like a workflow like that, how much support it needs. But 300 euro is like 30 euros subscription per month. Mm-hmm. So you build yourself a service business that pays upfront some money, and then on a- on a- on a monthly basis, a recurring revenue. And also, when you get into a restaurant, then it's not one workflow. Next time they need another workflow, another two, three thousand euro- Yeah. ... another two, three thousand euros. Okay. So that way you build yourself a- a lucrative ag- AI automation agency business. Okay. Okay. And okay, so you- you have touched many points that are like now becoming buzzwords and because of the hype around AI agents, blah, blah, blah, all these things that we always talk about it. But most people outside our tech bubble don't know yet what does it mean. So if I am, um, a small business or a creative agency, uh, and I have no idea about AI, um, can you explain how to think about the difference maybe between AI agents, workflows, what is an AI agent in three words, and how a business can say, \"Okay, here we need this kind of thing. Here it's better. This, this other stuff.\" You know what I mean? So... In simple- In- in simple words, maybe not three words, a little bit more. (laughs) Uh, like 30 words, let's say. (laughs) Okay, 30. Um, if I want to explain what is an AI agent to my mother, that's how I will explain it. Yeah. An AI agent is a software, um, that mimics the way a human performs tasks on a computer. That basically can work like the way a human can work on a computer. There are different types of AI agents, the same way as there are different types of people using computers. For example, there's a person using Google Sheets doing accounting. Uh, or there's a person using Google Docs.... writing, uh, documentation about something. And that's how the AI agents can be different. And the, the most important part about AI agent is it has like, why do we call it agent? Yeah. Because it has agency. It can do things on its own. Um, the same way like James Bond, for example, if we take James Bond as a connotation, um, James Bond is an agent. Okay. He's a 007 A- agent, uh, of, um... Which country is it? US or, or British? UK. UK, British. So, he goes and performs tasks in other co- uh, in other countries or in the same country, and then he has tools, uh, that he has, like a car that can drive and that can swim, that can fire, that can change the number plates. That tool is important. So an AI agent can have like a Google Sheet as a tool that can perform accounting tasks or can have a Gmail access that can perform, um, an email com- composing an email. Uh, and, and then James Bond has a very sharp memory. He can remember things. Uh, he can memorize things because he wants to make sure that he can find the right criminal at the right time and then take it to the law. And so is the case with an AI agent. An AI agent needs to kind of like remember things. For example, if I ha- I have built an AI agent that takes care of my email inbox and I say that compose an email or send an email to John Doe and mention that I am gonna be 20 minutes late, it should remember that who is John Doe and where can I find his, his email address, and that's the memory part of an AI agent. So an AI agent should have, uh, a memory, intelligence, agency, tools attached to that, and it should perform tasks on your behalf based on fuzzy instructions in a natural language, whether this be chat or a voice or connected to another system based on a trigger from another system. But it should have agency and it should learn over time. Sorry, that was not three words or 30 words. (laughs) I, I, I've never heard that, but I, I love the James Bond comparison. Now, I, I'm building in my head a world around an AI agent like James Bond. Yeah. Yeah, it makes sense because like James Bonds receives from his boss, uh, like a goal- Yeah. ... like find this criminal and kill him, let's say. (laughs) Right? And it's something like that, right? I hope he doesn't kill him and bring him to prison, but... (laughs) Okay. Okay. Right. Let's say bring him to prison. (laughs) So you, you give the AI agent as well a goal, right? Yes. You can give it a goal and you give it tools, maybe an Excel, Google Sheet is not as cool as James Bond car, but- Yeah. ... does the job. So he can then pick the right tools in the order that the brain of the AI agent- Yeah. ... at the side, right? To reach a certain goal basically. Yes. Make sense? We can, uh, do that kind of a connotation. I think, uh, there must be a dozen more metaphors that we can come up with. Yeah. ChatGPT should help. (laughs) Okay. Okay. That's, that's great. And so just to wrap it up, when, in which situations, um, in the processing of a businesses, of a business, it makes sense to use an agent with agency, as we said, or just a plain workflow that always do the same steps? So, um, if you have an, a workflow, better to be on n8n. Uh, if you have an n8n workflow, when to decide to put an AI agent or, or, or- Yeah. ... when to put, uh, AI capabilities in it, eh, it will kind of like become visible as soon as you start building it. If it's something to do with very unclear inputs, then most probably you need an AI agent node in n8n. Mm-hmm. For example, coming back to this receipt for this restaurant. Receipts can be scanned and receipts can be of different types of data input. It already is indicating that it needs AI integration because the amount of data that's coming in, the types of input is so much different. And AI is very good in recognizing patterns and extracting text from multiple different types of data input and then finding the right description for that invoice, the right date, because one invoice or one receipt can have a date setting somewhere else, one in somewhere else. Um, and extracting the amount, description, and so on. That is already an indication that you need an AI integration in your workflow. But on the other side, if you want to have a workflow that is just like running and doing something, it will li- automatically be identified because, for example, you have an API from one side, you're sucking in all that data, you're sanitizing it, you're cleaning it, and you're dumping it in a, in a database. In that case, you don't need AI because it's just like a pipeline that goes like from one, data flows from one side, goes to the other side. Mm-hmm. So in that case, you don't need, uh, any AI integration. Okay. I think it's just the workflow when you start building it, it will identify itself that, oh, okay, here I, I need AI. And then it's agentic and it's an AI automation. Uh, and, and gradually, it will go to that AI agent world where it has at least this brain, the ChatGPT model, the, the, the memory, and the tools. Those three basic ingredients that makes an AI agent, an AI agent. Mm-hmm. Okay. Yeah. So when the things are, yeah, not clear and usually need a human to decide what to do, it's the right place to, to use an AI agent, right? Yes. Yes. Okay. Wonderful. (laughs) Wonderful. I think we can stop it here, right? Wrap it up. Thank you so much. And finish our beer. Thanks. Thanks to you. Yeah. Thank you so much. This was like random. Yeah. Wait, wait a minute. Let's- Yeah. Let us, let us show you the, the- Yeah. ... the scene actually. Is it okay if we show the scene? Yeah, sure. Yeah, let's, let's go and s- show the scene. Where are we sitting? This is how we generate contents. (laughs) So I learned from Amel today to just vibe code... no, vibe my content. And so we randomly stopped here and decided to- Yeah. ... to have a talk. But take that stage. Yeah. That stage was so nice. And I think, uh, take, take this entire stage. Look at that. Like, if I, if I- It was made for it. Yeah, it was literally waiting for us to, to take this stage- (laughs) ... uh, and literally do this, uh, in a way that we did it. Thank you so much for the interview. Thanks, Amel. It's a very nice content."
+}

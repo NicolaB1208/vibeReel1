@@ -1,0 +1,1178 @@
+00:00:01.580 --> 00:00:03.280
+[speaker_name | speaker_0 | types: word] Hi, Hemal. How are you?
+
+00:00:03.380 --> 00:00:06.440
+[speaker_name | speaker_1 | types: word] I'm doing good, Nicola. Thank you so much for inviting me for beer.
+
+00:00:06.540 --> 00:00:09.260
+[speaker_name | speaker_0 | types: word] Yeah, I think we should start with a toast, right?
+
+00:00:09.380 --> 00:00:09.390
+[speaker_name | speaker_1 | types: audio_event] (laughs)
+
+00:00:09.420 --> 00:00:10.980
+[speaker_name | speaker_1 | types: word] Yeah. Cheers.
+
+00:00:11.000 --> 00:00:11.050
+[speaker_name | speaker_0 | types: word] Cheers.
+
+00:00:11.050 --> 00:00:13.460
+[speaker_name | speaker_1 | types: word] Cheers.
+
+00:00:15.820 --> 00:00:17.480
+[speaker_name | speaker_1 | types: word] Ah, nice beer.
+
+00:00:18.340 --> 00:00:18.860
+[speaker_name | speaker_0 | types: word] Nice one.
+
+00:00:18.900 --> 00:00:20.010
+[speaker_name | speaker_1 | types: word] So...
+
+00:00:20.040 --> 00:00:26.680
+[speaker_name | speaker_0 | types: word] So, yeah, how, how do we met? We met yesterday for the first time in real life.
+
+00:00:26.740 --> 00:00:26.900
+[speaker_name | speaker_1 | types: word] Yes.
+
+00:00:26.920 --> 00:00:28.920
+[speaker_name | speaker_0 | types: word] And now we are here talking-
+
+00:00:28.940 --> 00:00:28.950
+[speaker_name | speaker_1 | types: word] Yes.
+
+00:00:28.950 --> 00:00:31.160
+[speaker_name | speaker_0 | types: word] ... and spending some time together.
+
+00:00:31.200 --> 00:00:31.340
+[speaker_name | speaker_1 | types: word] Yes.
+
+00:00:31.360 --> 00:00:32.119
+[speaker_name | speaker_0 | types: word] That's so cool.
+
+00:00:32.159 --> 00:00:37.080
+[speaker_name | speaker_1 | types: word] Thank you so much, uh, for this, uh, invitation for this interview.
+
+00:00:37.100 --> 00:00:37.560
+[speaker_name | speaker_0 | types: word] Mm-hmm.
+
+00:00:37.580 --> 00:00:45.410
+[speaker_name | speaker_1 | types: word] Yesterday, we had an amazing, uh, n8n starter session in Barcelona. It's an official tour from
+
+00:00:45.460 --> 00:00:50.290
+[speaker_name | speaker_1 | types: word] n8n across seven countries, Europe and US. Um,
+
+00:00:51.020 --> 00:00:52.640
+[speaker_name | speaker_1 | types: word] it was great to meet you.
+
+00:00:52.740 --> 00:00:58.010
+[speaker_name | speaker_0 | types: word] Yeah. Thank you. And there were so many people. The vibes were, were so great.
+
+00:00:58.020 --> 00:00:58.150
+[speaker_name | speaker_1 | types: word] Yes.
+
+00:00:58.220 --> 00:01:05.680
+[speaker_name | speaker_0 | types: word] And, and I was actually... We were talking about this before, right? I was inspired by hearing your
+
+00:01:05.780 --> 00:01:12.900
+[speaker_name | speaker_0 | types: word] story. And apart from all the cool stuff that you do with n8n, automations, AI, th- which is
+
+00:01:13.160 --> 00:01:17.440
+[speaker_name | speaker_0 | types: word] amazing, but what I really like and, um,
+
+00:01:18.900 --> 00:01:26.260
+[speaker_name | speaker_0 | types: word] relate to you was, like, your motivation behind all of this, like, why you are doing this.
+
+00:01:26.280 --> 00:01:26.310
+[speaker_name | speaker_1 | types: word] Sure.
+
+00:01:26.310 --> 00:01:26.320
+[speaker_name | speaker_1 | types: audio_event] (laughs)
+
+00:01:26.340 --> 00:01:27.240
+[speaker_name | speaker_0 | types: word] Why you are doing this?
+
+00:01:28.040 --> 00:01:32.550
+[speaker_name | speaker_1 | types: word] Thank you. Thank you so much. Yeah, uh, to be honest, the reason I'm, uh, I'm
+
+00:01:33.400 --> 00:01:35.610
+[speaker_name | speaker_1 | types: word] doing all this AI education, especially with the
+
+00:01:36.280 --> 00:01:37.750
+[speaker_name | speaker_1 | types: word] monthly, um,
+
+00:01:38.580 --> 00:01:46.560
+[speaker_name | speaker_1 | types: word] free workshops and all the n8n ambassador program, uh, is because, uh, I started
+
+00:01:46.840 --> 00:01:54.600
+[speaker_name | speaker_1 | types: word] learning coding when I was, like, 16 year old or 15 years old, um, in a developing country, um,
+
+00:01:55.200 --> 00:01:59.620
+[speaker_name | speaker_1 | types: word] or even underdeveloped as a refugee in Pakistan. Um,
+
+00:02:00.440 --> 00:02:07.920
+[speaker_name | speaker_1 | types: word] and the reason that I was exposed to this, uh, computer programming education early on in my life, despite having
+
+00:02:07.980 --> 00:02:15.140
+[speaker_name | speaker_1 | types: word] very mediocre lifestyle or, or maybe even a poor lifestyle I would say,
+
+00:02:15.280 --> 00:02:21.450
+[speaker_name | speaker_1 | types: word] uh, that it, uh, early exposure to, to AI... not AI, but, like, coding,
+
+00:02:22.160 --> 00:02:29.240
+[speaker_name | speaker_1 | types: word] brought me today here where I am. Otherwise, I might have ended up in a totally different, uh, circumstance in
+
+00:02:29.280 --> 00:02:34.880
+[speaker_name | speaker_1 | types: word] my life, financially speaking, educationally, and also lifestyle-wise. And I want to
+
+00:02:35.780 --> 00:02:42.060
+[speaker_name | speaker_1 | types: word] pay back to the community and, and, and teach a lot of, uh, 16 years old kids around the world,
+
+00:02:42.100 --> 00:02:49.280
+[speaker_name | speaker_1 | types: word] whether this be in India, Pakistan, Afghanistan, Bangladesh, uh, South America, wh- wherever it is. Like, uh, there are a
+
+00:02:49.360 --> 00:02:55.740
+[speaker_name | speaker_1 | types: word] lot of developing countries with internet connections that they can play a YouTube video. And if get, they get, uh,
+
+00:02:55.780 --> 00:03:03.730
+[speaker_name | speaker_1 | types: word] one of my YouTube videos, uh, and they, they learn how to build, uh, something, I,
+
+00:03:03.730 --> 00:03:08.600
+[speaker_name | speaker_1 | types: word] I would be really, really happy. And it's just the start of the journey. I'm-
+
+00:03:08.640 --> 00:03:09.470
+[speaker_name | speaker_0 | types: word] Yeah, just the beginning.
+
+00:03:09.470 --> 00:03:10.900
+[speaker_name | speaker_1 | types: word] ... way far away from that
+
+00:03:11.760 --> 00:03:12.420
+[speaker_name | speaker_1 | types: word] first million
+
+00:03:13.280 --> 00:03:18.440
+[speaker_name | speaker_1 | types: word] 16 year old kids who will, uh, who will learn from my content.
+
+00:03:18.460 --> 00:03:19.410
+[speaker_name | speaker_0 | types: word] Mm-hmm.
+
+00:03:19.420 --> 00:03:19.540
+[speaker_name | speaker_1 | types: word] Yeah.
+
+00:03:19.600 --> 00:03:23.260
+[speaker_name | speaker_0 | types: word] I see. I s-... That's, like, really the best mission. And
+
+00:03:24.440 --> 00:03:32.280
+[speaker_name | speaker_0 | types: word] I remember yesterday you were saying that you're already hearing back stories from, from kids in, in India or, or
+
+00:03:32.380 --> 00:03:33.280
+[speaker_name | speaker_0 | types: word] somewhere else that-
+
+00:03:33.320 --> 00:03:33.840
+[speaker_name | speaker_1 | types: word] Yeah.
+
+00:03:33.860 --> 00:03:35.340
+[speaker_name | speaker_0 | types: word] ... writes you, right?
+
+00:03:35.350 --> 00:03:35.350
+[speaker_name | speaker_1 | types: word] Yeah.
+
+00:03:35.400 --> 00:03:42.740
+[speaker_name | speaker_0 | types: word] Saying, "I, I watched your video, and it was so helpful, so clear, like this, uh, eight hours long
+
+00:03:42.920 --> 00:03:43.730
+[speaker_name | speaker_0 | types: word] video."
+
+00:03:43.730 --> 00:03:43.730
+[speaker_name | speaker_1 | types: word] Yeah.
+
+00:03:43.730 --> 00:03:51.180
+[speaker_name | speaker_0 | types: word] "And I can just followed it, put in, uh, in, in the work, and help someone in, in my community,
+
+00:03:51.220 --> 00:03:56.810
+[speaker_name | speaker_0 | types: word] my neighborhood, the, the shop nearby, the, the, um, the doctor, and-"
+
+00:03:56.820 --> 00:03:57.060
+[speaker_name | speaker_1 | types: word] Yes.
+
+00:03:57.070 --> 00:04:00.820
+[speaker_name | speaker_0 | types: word] "... help them right away thanks to code and AI."
+
+00:04:00.900 --> 00:04:01.769
+[speaker_name | speaker_1 | types: word] Yes, uh, that-
+
+00:04:01.769 --> 00:04:02.080
+[speaker_name | speaker_0 | types: word] That's super cool.
+
+00:04:02.100 --> 00:04:04.680
+[speaker_name | speaker_1 | types: word] ... uh, that's amazing. Like, each time I get these
+
+00:04:05.620 --> 00:04:08.560
+[speaker_name | speaker_1 | types: word] either shout-outs on LinkedIn that people
+
+00:04:09.540 --> 00:04:15.600
+[speaker_name | speaker_1 | types: word] learned something, did something, or, or they send me a DM, they say like, "Thank you so much for this
+
+00:04:15.700 --> 00:04:23.420
+[speaker_name | speaker_1 | types: word] tutorial you're putting in." It's, it's, um, kind of the fuel I need in order to produce more and more
+
+00:04:23.460 --> 00:04:30.300
+[speaker_name | speaker_1 | types: word] and more. Uh, and, and this kid from India sent me a message that he started building this little voice
+
+00:04:30.380 --> 00:04:35.160
+[speaker_name | speaker_1 | types: word] AI agent. And, uh, many, many more like those examples come.
+
+00:04:35.170 --> 00:04:35.170
+[speaker_name | speaker_0 | types: word] Mm-hmm.
+
+00:04:35.200 --> 00:04:40.969
+[speaker_name | speaker_1 | types: word] And it's, as I said, it's just the start. I, I started my journey literally a few months ago, and
+
+00:04:41.000 --> 00:04:45.020
+[speaker_name | speaker_1 | types: word] it's gonna get, uh, I think, bigger and bigger. I'm, uh-
+
+00:04:45.040 --> 00:04:45.290
+[speaker_name | speaker_0 | types: word] It's moving pretty fast.
+
+00:04:45.290 --> 00:04:46.500
+[speaker_name | speaker_1 | types: word] I'm so passionate about this.
+
+00:04:46.540 --> 00:04:47.220
+[speaker_name | speaker_0 | types: word] Yeah.
+
+00:04:47.260 --> 00:04:48.140
+[speaker_name | speaker_1 | types: word] Yeah.
+
+00:04:48.160 --> 00:04:54.760
+[speaker_name | speaker_0 | types: word] And, and then I, I think you have just, uh, started a company in the last month-
+
+00:04:54.840 --> 00:04:55.010
+[speaker_name | speaker_1 | types: word] Yeah.
+
+00:04:55.010 --> 00:04:55.780
+[speaker_name | speaker_0 | types: word] ... or last few months.
+
+00:04:55.800 --> 00:04:56.010
+[speaker_name | speaker_1 | types: word] Yeah.
+
+00:04:56.040 --> 00:05:03.320
+[speaker_name | speaker_0 | types: word] Right? What, what's your, um, uh, goal with that? Or what do you... what are you cooking now?
+
+00:05:03.520 --> 00:05:08.860
+[speaker_name | speaker_1 | types: word] So, with this new company, Avinai, um, Chris and I are, uh,
+
+00:05:09.940 --> 00:05:11.880
+[speaker_name | speaker_1 | types: word] building AI agents, or kind of
+
+00:05:12.920 --> 00:05:20.370
+[speaker_name | speaker_1 | types: word] in a metaphorical way, we are reimagining work. Uh, we believe that in the near
+
+00:05:20.480 --> 00:05:28.140
+[speaker_name | speaker_1 | types: word] future, the work as we know it will change. And we at Avinai are at the fore- at the forefront
+
+00:05:28.180 --> 00:05:35.640
+[speaker_name | speaker_1 | types: word] of reimagining how work is done. Uh, and I, I believe with this agentic workflows, with AI
+
+00:05:35.760 --> 00:05:43.220
+[speaker_name | speaker_1 | types: word] agents, and with AI automation, we can definitely rethink about how work should be done, because a lot of work
+
+00:05:43.260 --> 00:05:51.100
+[speaker_name | speaker_1 | types: word] is repetitive. And especially in enterprise level, there, there are a lot of automation, uh, opportunities that
+
+00:05:51.760 --> 00:05:59.180
+[speaker_name | speaker_1 | types: word] even low-hanging fruits could be like automating, copy-pasting from one system to another system that ca-... that could be done,
+
+00:05:59.220 --> 00:06:06.820
+[speaker_name | speaker_1 | types: word] uh, anyways by literally gluing two APIs together. But now, if you find, like, an horizontal use case where
+
+00:06:06.860 --> 00:06:11.708
+[speaker_name | speaker_1 | types: word] across multiple systems...... an AI agent can have an
+
+00:06:12.848 --> 00:06:14.268
+[speaker_name | speaker_1 | types: word] a- access to all those tools
+
+00:06:14.988 --> 00:06:15.468
+[speaker_name | speaker_1 | types: word] and
+
+00:06:16.108 --> 00:06:24.088
+[speaker_name | speaker_1 | types: word] perform those actions across those tools. Uh, it will create an enormous, um, value for
+
+00:06:24.108 --> 00:06:30.027
+[speaker_name | speaker_1 | types: word] that particular organization. Uh, and I think it's just the start. It's gonna get bigger.
+
+00:06:30.148 --> 00:06:34.888
+[speaker_name | speaker_0 | types: word] So, you, you think, uh, that it's like rethinking
+
+00:06:36.188 --> 00:06:39.128
+[speaker_name | speaker_0 | types: word] the, the way of working with AI? How do you
+
+00:06:39.928 --> 00:06:45.747
+[speaker_name | speaker_0 | types: word] help the company, uh, a client, a, a company, uh, go about it, right?
+
+00:06:45.848 --> 00:06:49.368
+[speaker_name | speaker_1 | types: word] So, yeah. The, the, the reason that we
+
+00:06:50.508 --> 00:06:57.658
+[speaker_name | speaker_1 | types: word] want to kind of like bring this visibility of reimagining or rethinking how work is done is
+
+00:06:57.668 --> 00:07:02.408
+[speaker_name | speaker_1 | types: word] because until now, we have been using computers in a way to
+
+00:07:03.048 --> 00:07:10.918
+[speaker_name | speaker_1 | types: word] enable us to do our job better. And now, computers can do the job. So therefore, it's
+
+00:07:10.948 --> 00:07:14.768
+[speaker_name | speaker_1 | types: word] time that we have to rethink or reimagine how work is done.
+
+00:07:15.428 --> 00:07:23.048
+[speaker_name | speaker_1 | types: word] It's not that we're gonna... for example, Excel. Excel was very good to do calculations, but enabled us to do
+
+00:07:23.088 --> 00:07:30.948
+[speaker_name | speaker_1 | types: word] better calculation. Now, let's take an example of an AI agent that is doing invoices.
+
+00:07:30.968 --> 00:07:37.528
+[speaker_name | speaker_1 | types: word] It's gonna do the reconciliation for you. It's gonna do the booking for you. It's gonna do the travel expenses,
+
+00:07:37.588 --> 00:07:45.548
+[speaker_name | speaker_1 | types: word] the r- uh, the payroll and everything else for you. So, you have to, at the principal level, rethink
+
+00:07:45.568 --> 00:07:47.908
+[speaker_name | speaker_1 | types: word] and reimagine how work should be done.
+
+00:07:47.968 --> 00:07:48.128
+[speaker_name | speaker_0 | types: word] Yeah.
+
+00:07:48.148 --> 00:07:55.388
+[speaker_name | speaker_1 | types: word] And that's where we, we play, uh, uh, an extremely, um, crucial role because we not only bring
+
+00:07:55.428 --> 00:07:57.498
+[speaker_name | speaker_1 | types: word] in the, um,
+
+00:07:58.348 --> 00:07:59.718
+[speaker_name | speaker_1 | types: word] the empowering, uh,
+
+00:08:00.368 --> 00:08:07.768
+[speaker_name | speaker_1 | types: word] capabilities, but also from the day one, we, we bring in the discovery phase to it, uh, with workshops
+
+00:08:07.828 --> 00:08:15.058
+[speaker_name | speaker_1 | types: word] initially, and then enablement, uh, sessions and development sessions and maintenance and, and so on and so forth.
+
+00:08:15.068 --> 00:08:15.148
+[speaker_name | speaker_0 | types: word] Yeah.
+
+00:08:15.168 --> 00:08:18.348
+[speaker_name | speaker_1 | types: word] So, kind of like a 360-degree service company.
+
+00:08:18.358 --> 00:08:26.108
+[speaker_name | speaker_0 | types: word] 'Cause I, I, I hear more and more people saying this, that with, with AI, it's a lot about people
+
+00:08:26.288 --> 00:08:26.948
+[speaker_name | speaker_0 | types: word] right now.
+
+00:08:27.868 --> 00:08:28.228
+[speaker_name | speaker_0 | types: word] Like,
+
+00:08:28.848 --> 00:08:29.908
+[speaker_name | speaker_0 | types: word] the tool or the
+
+00:08:30.648 --> 00:08:34.938
+[speaker_name | speaker_0 | types: word] brain of AI is already extremely good to do most of the work.
+
+00:08:34.938 --> 00:08:35.248
+[speaker_name | speaker_1 | types: word] Mm-hmm.
+
+00:08:35.268 --> 00:08:38.048
+[speaker_name | speaker_0 | types: word] But the issue is how people use it, or
+
+00:08:38.688 --> 00:08:46.608
+[speaker_name | speaker_0 | types: word] the famous AI adoption that is not a- as easy, especially the, the bigger the company. Uh, so there
+
+00:08:46.648 --> 00:08:46.788
+[speaker_name | speaker_0 | types: word] is
+
+00:08:48.388 --> 00:08:50.748
+[speaker_name | speaker_0 | types: word] some help there needed, right?
+
+00:08:50.808 --> 00:08:58.068
+[speaker_name | speaker_1 | types: word] Uh, yeah. The AI adoption right now, um, especially the, the, the blockers in SMEs and-
+
+00:08:58.088 --> 00:08:58.208
+[speaker_name | speaker_0 | types: word] Mm-hmm.
+
+00:08:58.217 --> 00:09:04.628
+[speaker_name | speaker_1 | types: word] ... big companies, uh, can be understandable because it's not so high and, and the reason is because
+
+00:09:06.008 --> 00:09:13.128
+[speaker_name | speaker_1 | types: word] usually these AI, um, models could hallucinate. So, we have guardrails, but they are so
+
+00:09:13.228 --> 00:09:20.968
+[speaker_name | speaker_1 | types: word] young. Like, every single project that you can pick that can, um, enable, uh, an
+
+00:09:21.048 --> 00:09:28.828
+[speaker_name | speaker_1 | types: word] AI agent to reduce the hallucinations and put the right guardrails, those projects by themselves are like three, four, five,
+
+00:09:28.848 --> 00:09:31.108
+[speaker_name | speaker_1 | types: word] six months old. Now,
+
+00:09:31.988 --> 00:09:33.948
+[speaker_name | speaker_1 | types: word] the enterprise is not adopting it
+
+00:09:34.968 --> 00:09:42.928
+[speaker_name | speaker_1 | types: word] yet, uh, because of the immaturity of those projects. But they're developing so fast that
+
+00:09:43.108 --> 00:09:44.328
+[speaker_name | speaker_1 | types: word] I believe in six months,
+
+00:09:45.308 --> 00:09:47.708
+[speaker_name | speaker_1 | types: word] they will be enterprise-ready.
+
+00:09:47.728 --> 00:09:47.818
+[speaker_name | speaker_0 | types: word] Mm-hmm.
+
+00:09:47.818 --> 00:09:51.008
+[speaker_name | speaker_1 | types: word] But the... on the other side of the spectrum,
+
+00:09:51.828 --> 00:09:59.588
+[speaker_name | speaker_1 | types: word] there are certain things that can be used today in, uh, enterprise. Uh, for example, let's take an,
+
+00:09:59.708 --> 00:10:04.867
+[speaker_name | speaker_1 | types: word] uh, a simple workflow in n8n. Um, by the way, Avanade is an n8n expert company.
+
+00:10:05.928 --> 00:10:08.828
+[speaker_name | speaker_1 | types: word] We do n8n workshops and n8n, uh,
+
+00:10:09.848 --> 00:10:12.068
+[speaker_name | speaker_1 | types: word] implementation for enterprises.
+
+00:10:12.908 --> 00:10:18.628
+[speaker_name | speaker_1 | types: word] So, let's take an n8n workflow. You, you do n8n workflows for companies.
+
+00:10:19.808 --> 00:10:26.548
+[speaker_name | speaker_1 | types: word] You already know how easy it is or how secure it is to, to put an n8n workflow that
+
+00:10:26.568 --> 00:10:33.568
+[speaker_name | speaker_1 | types: word] does, let's say, ticket cal- classification. Enterprises get these support tickets in thousands.
+
+00:10:33.588 --> 00:10:34.388
+[speaker_name | speaker_0 | types: word] Mm-hmm.
+
+00:10:34.408 --> 00:10:37.928
+[speaker_name | speaker_1 | types: word] And usually, there's a workflow or a process that a human being
+
+00:10:39.548 --> 00:10:46.508
+[speaker_name | speaker_1 | types: word] has access to an inbox. Let's say help at Allianz or support at Allianz.de, for
+
+00:10:46.568 --> 00:10:53.108
+[speaker_name | speaker_1 | types: word] example. And, and they decide, okay, this label goes to it, this label goes to it, this one goes to
+
+00:10:53.127 --> 00:10:59.738
+[speaker_name | speaker_1 | types: word] that department, this one goes to that department. So, there's a lot of labeling and, and, and routing and things
+
+00:10:59.828 --> 00:11:03.828
+[speaker_name | speaker_1 | types: word] that today's AI can do it with a very high degree of certainty.
+
+00:11:03.848 --> 00:11:04.408
+[speaker_name | speaker_0 | types: word] Yeah.
+
+00:11:04.468 --> 00:11:11.528
+[speaker_name | speaker_1 | types: word] Can be done with today's AI. And also, I, I teach a lot about EU AI Act in my, uh,
+
+00:11:11.568 --> 00:11:12.288
+[speaker_name | speaker_1 | types: word] workshops.
+
+00:11:12.298 --> 00:11:13.108
+[speaker_name | speaker_0 | types: word] Mm-hmm.
+
+00:11:13.148 --> 00:11:16.608
+[speaker_name | speaker_1 | types: word] Happy to discuss about that more. I don't want to go on a monologue.
+
+00:11:16.648 --> 00:11:16.678
+[speaker_name | speaker_1 | types: audio_event] (laughs)
+
+00:11:16.688 --> 00:11:17.398
+[speaker_name | speaker_1 | types: word] Sorry, uh, like this kind of thing.
+
+00:11:17.398 --> 00:11:18.958
+[speaker_name | speaker_0 | types: word] Yeah, no, no worries. Go on.
+
+00:11:19.008 --> 00:11:26.478
+[speaker_name | speaker_1 | types: word] But, but, like, these, uh, compliance s- or legal side effect can also be done with n8n and, and with
+
+00:11:26.508 --> 00:11:34.318
+[speaker_name | speaker_1 | types: word] the current AI tech stack we have. So, from one side, high-risk, um,
+
+00:11:34.668 --> 00:11:40.838
+[speaker_name | speaker_1 | types: word] applications should not be done with AI yet. But in the next six months to one year, it's possible. Uh,
+
+00:11:40.867 --> 00:11:48.728
+[speaker_name | speaker_1 | types: word] on the other side, uh, low-risk, um, applications, uh, can be done today with AI. And I think, uh, the
+
+00:11:48.768 --> 00:11:53.728
+[speaker_name | speaker_1 | types: word] enterprise is just catching up and it's the best time to provide these services.
+
+00:11:53.808 --> 00:11:54.928
+[speaker_name | speaker_0 | types: word] Yeah. I think that
+
+00:11:55.788 --> 00:11:56.228
+[speaker_name | speaker_0 | types: word] there is,
+
+00:11:57.028 --> 00:12:02.808
+[speaker_name | speaker_0 | types: word] there are, as y- as you said, already ways to, to figure out the legal and the, the other kind
+
+00:12:02.867 --> 00:12:09.568
+[speaker_name | speaker_0 | types: word] of, of things, right? The, the formalities. But if a company wants to do it and puts in the right
+
+00:12:09.728 --> 00:12:12.728
+[speaker_name | speaker_0 | types: word] effort, it's...... working, right?
+
+00:12:12.768 --> 00:12:12.878
+[speaker_name | speaker_1 | types: word] Yeah.
+
+00:12:12.888 --> 00:12:14.197
+[speaker_name | speaker_0 | types: word] You can really do that.
+
+00:12:14.197 --> 00:12:14.197
+[speaker_name | speaker_1 | types: word] Yes.
+
+00:12:14.228 --> 00:12:21.748
+[speaker_name | speaker_0 | types: word] And you have, you have said a few things about enterprise and big companies. How do you see, uh, right
+
+00:12:21.788 --> 00:12:28.368
+[speaker_name | speaker_0 | types: word] now the- the use cases or the application for, uh, small companies, medium companies that have
+
+00:12:29.168 --> 00:12:35.128
+[speaker_name | speaker_0 | types: word] no idea of how to use it? They want to do something with it, but they don't know where to
+
+00:12:35.228 --> 00:12:37.648
+[speaker_name | speaker_0 | types: word] start. Like, they are overwhelmed.
+
+00:12:37.788 --> 00:12:38.478
+[speaker_name | speaker_1 | types: word] Um,
+
+00:12:39.168 --> 00:12:46.308
+[speaker_name | speaker_1 | types: word] eh, s- especially small businesses, like for example, this, uh, restaurant, beautiful restaurant, a lot of
+
+00:12:46.408 --> 00:12:53.968
+[speaker_name | speaker_1 | types: word] customers. If they start... The- the owner of this restaurant starts thinking about implementing an AI agent in
+
+00:12:54.028 --> 00:13:01.508
+[speaker_name | speaker_1 | types: word] their workflow, they are the right people to identify which process is so repeated. Don't-
+
+00:13:01.528 --> 00:13:01.968
+[speaker_name | speaker_0 | types: word] Yeah.
+
+00:13:02.068 --> 00:13:09.728
+[speaker_name | speaker_1 | types: word] Uh, kind of like if I was building AI agents for small restaurants, uh, not chains, small restaurants, I would
+
+00:13:09.788 --> 00:13:14.008
+[speaker_name | speaker_1 | types: word] go and talk to them, and I would not tell them that A- AI agents can do this and that.
+
+00:13:14.068 --> 00:13:20.868
+[speaker_name | speaker_1 | types: word] I wouldn't show them N8N workflows. I wouldn't try to sell all the bells and whistles of AI agents. I
+
+00:13:20.888 --> 00:13:26.578
+[speaker_name | speaker_1 | types: word] would go and talk to them, and I would say, "Can you show me which workflow do you do? Like,
+
+00:13:26.608 --> 00:13:33.088
+[speaker_name | speaker_1 | types: word] what is the most repetitive workflow that you do?" And most probably, you will find a workflow that is doable
+
+00:13:33.148 --> 00:13:38.918
+[speaker_name | speaker_1 | types: word] with the current AI agent's workflow automation, uh, I mean, AI, uh, automation.
+
+00:13:39.868 --> 00:13:45.668
+[speaker_name | speaker_1 | types: word] And then you pick one niche that is so repetitive, like every day they do the same thing again and
+
+00:13:45.728 --> 00:13:49.498
+[speaker_name | speaker_1 | types: word] again. For example, they take these slips, they put it in this, like, big, uh,
+
+00:13:50.168 --> 00:13:55.028
+[speaker_name | speaker_1 | types: word] pin. It's a pile of slips, and then they kind of like reconcile it somewhere, or key punch it, or
+
+00:13:55.248 --> 00:13:56.578
+[speaker_name | speaker_1 | types: word] scan it, or do something with it.
+
+00:13:56.588 --> 00:13:57.708
+[speaker_name | speaker_0 | types: word] Mm-hmm.
+
+00:13:57.728 --> 00:14:05.048
+[speaker_name | speaker_1 | types: word] That's doable. Like, in this N8N starter, uh, workshop, one of the workflows is receipt scanning.
+
+00:14:05.548 --> 00:14:11.408
+[speaker_name | speaker_1 | types: word] Perhaps they need this, uh, receipt scanning. And you- you- you know how to do it. It's so simple.
+
+00:14:11.448 --> 00:14:12.668
+[speaker_name | speaker_0 | types: word] Yeah, it's simple.
+
+00:14:12.788 --> 00:14:18.908
+[speaker_name | speaker_1 | types: word] Uh, and then if you can automate that one workflow for them, that they scan a receipt with Google Drive,
+
+00:14:18.948 --> 00:14:25.168
+[speaker_name | speaker_1 | types: word] it goes and sits there on a, as a PDF, and it does an entry on Google Sheets. And it
+
+00:14:25.228 --> 00:14:28.548
+[speaker_name | speaker_1 | types: word] is perhaps also connected with their POS, their point of sales.
+
+00:14:29.288 --> 00:14:35.818
+[speaker_name | speaker_1 | types: word] Uh, and- and then maybe it does a s- uh, a push notification with some summaries every hour to the
+
+00:14:35.928 --> 00:14:36.218
+[speaker_name | speaker_1 | types: word] owner
+
+00:14:36.988 --> 00:14:39.888
+[speaker_name | speaker_1 | types: word] from all the branches that he has on Slack.
+
+00:14:39.897 --> 00:14:39.897
+[speaker_name | speaker_0 | types: word] Yeah.
+
+00:14:39.908 --> 00:14:45.748
+[speaker_name | speaker_1 | types: word] This kind of a workflow is already doable. And then you, you do it perfectly for one restaurant, and then
+
+00:14:45.888 --> 00:14:51.208
+[speaker_name | speaker_1 | types: word] you start going around in Barcelona city, and then you keep selling it to the next restaurants. I think the
+
+00:14:51.388 --> 00:14:56.208
+[speaker_name | speaker_1 | types: word] ROI for this, for let- even if you sell it for a thousand euros,
+
+00:14:57.188 --> 00:15:00.708
+[speaker_name | speaker_1 | types: word] and it takes you one hour to install it. Uh, let's say another
+
+00:15:01.928 --> 00:15:06.508
+[speaker_name | speaker_1 | types: word] two hours in total accumulated across all your sales pipelines
+
+00:15:07.348 --> 00:15:15.117
+[speaker_name | speaker_1 | types: word] per client. So in three hours, you're making a thousand euros. It's an extremely luc- lucrative business. Um,
+
+00:15:16.088 --> 00:15:17.608
+[speaker_name | speaker_1 | types: word] now imagine if you can
+
+00:15:19.088 --> 00:15:25.828
+[speaker_name | speaker_1 | types: word] sell more of this by hiring people. On the other side, it's also lucrative for the business because something that
+
+00:15:25.868 --> 00:15:32.188
+[speaker_name | speaker_1 | types: word] they used to do with hand, with human brain, now can be done with AI. So the ROI for the
+
+00:15:32.248 --> 00:15:38.518
+[speaker_name | speaker_1 | types: word] restaurant is positive already. A thousand euro is nothing for a restaurant to put a kind of tech stack that's
+
+00:15:38.548 --> 00:15:40.598
+[speaker_name | speaker_1 | types: word] frontier and it's agentic, it's-
+
+00:15:41.408 --> 00:15:48.548
+[speaker_name | speaker_1 | types: word] it's top-notch, uh, quality. And also you can provide support with that 1,000 euros. Maybe you- you put another package
+
+00:15:48.588 --> 00:15:54.568
+[speaker_name | speaker_1 | types: word] on the top, 300 euros per year for- for unlimited support.
+
+00:15:54.628 --> 00:15:54.968
+[speaker_name | speaker_0 | types: word] Yeah.
+
+00:15:55.008 --> 00:15:59.728
+[speaker_name | speaker_1 | types: word] You can imagine like a workflow like that, how much support it needs. But 300 euro is like 30 euros
+
+00:15:59.808 --> 00:16:00.828
+[speaker_name | speaker_1 | types: word] subscription per month.
+
+00:16:01.148 --> 00:16:01.568
+[speaker_name | speaker_0 | types: word] Mm-hmm.
+
+00:16:01.628 --> 00:16:07.587
+[speaker_name | speaker_1 | types: word] So you build yourself a service business that pays upfront some money, and then on a- on a- on a
+
+00:16:07.928 --> 00:16:15.568
+[speaker_name | speaker_1 | types: word] monthly basis, a recurring revenue. And also, when you get into a restaurant, then it's not one workflow. Next time
+
+00:16:15.588 --> 00:16:17.808
+[speaker_name | speaker_1 | types: word] they need another workflow, another two, three thousand euro-
+
+00:16:17.828 --> 00:16:17.837
+[speaker_name | speaker_0 | types: word] Yeah.
+
+00:16:17.837 --> 00:16:19.068
+[speaker_name | speaker_1 | types: word] ... another two, three thousand euros.
+
+00:16:19.108 --> 00:16:19.308
+[speaker_name | speaker_0 | types: word] Okay.
+
+00:16:19.328 --> 00:16:23.368
+[speaker_name | speaker_1 | types: word] So that way you build yourself a- a lucrative ag- AI automation agency business.
+
+00:16:23.408 --> 00:16:24.818
+[speaker_name | speaker_0 | types: word] Okay. Okay. And
+
+00:16:25.548 --> 00:16:26.928
+[speaker_name | speaker_0 | types: word] okay, so you- you have touched
+
+00:16:27.528 --> 00:16:28.408
+[speaker_name | speaker_0 | types: word] many points that
+
+00:16:29.668 --> 00:16:37.438
+[speaker_name | speaker_0 | types: word] are like now becoming buzzwords and because of the hype around AI agents, blah, blah, blah, all these things
+
+00:16:37.488 --> 00:16:37.708
+[speaker_name | speaker_0 | types: word] that
+
+00:16:38.308 --> 00:16:41.568
+[speaker_name | speaker_0 | types: word] we always talk about it. But most people outside
+
+00:16:42.768 --> 00:16:50.627
+[speaker_name | speaker_0 | types: word] our tech bubble don't know yet what does it mean. So if I am, um, a small business or a
+
+00:16:50.688 --> 00:16:56.908
+[speaker_name | speaker_0 | types: word] creative agency, uh, and I have no idea about AI, um,
+
+00:16:58.468 --> 00:17:01.208
+[speaker_name | speaker_0 | types: word] can you explain how to think about
+
+00:17:01.988 --> 00:17:08.407
+[speaker_name | speaker_0 | types: word] the difference maybe between AI agents, workflows, what is an AI agent in
+
+00:17:09.188 --> 00:17:13.668
+[speaker_name | speaker_0 | types: word] three words, and how a business can say, "Okay, here
+
+00:17:14.588 --> 00:17:21.168
+[speaker_name | speaker_0 | types: word] we need this kind of thing. Here it's better. This, this other stuff." You know what I mean?
+
+00:17:21.228 --> 00:17:22.208
+[speaker_name | speaker_1 | types: word] So...
+
+00:17:22.248 --> 00:17:22.958
+[speaker_name | speaker_0 | types: word] In simple-
+
+00:17:22.958 --> 00:17:26.188
+[speaker_name | speaker_1 | types: word] In- in simple words, maybe not three words, a little bit more.
+
+00:17:26.728 --> 00:17:26.738
+[speaker_name | speaker_0 | types: audio_event] (laughs)
+
+00:17:26.748 --> 00:17:28.248
+[speaker_name | speaker_1 | types: word] Uh, like 30 words, let's say.
+
+00:17:28.268 --> 00:17:28.278
+[speaker_name | speaker_1 | types: audio_event] (laughs)
+
+00:17:28.308 --> 00:17:29.208
+[speaker_name | speaker_0 | types: word] Okay, 30.
+
+00:17:29.288 --> 00:17:29.668
+[speaker_name | speaker_1 | types: word] Um,
+
+00:17:30.468 --> 00:17:32.208
+[speaker_name | speaker_1 | types: word] if I want to explain
+
+00:17:32.848 --> 00:17:38.768
+[speaker_name | speaker_1 | types: word] what is an AI agent to my mother, that's how I will explain it.
+
+00:17:38.828 --> 00:17:39.048
+[speaker_name | speaker_0 | types: word] Yeah.
+
+00:17:40.528 --> 00:17:41.757
+[speaker_name | speaker_1 | types: word] An AI agent
+
+00:17:42.508 --> 00:17:47.648
+[speaker_name | speaker_1 | types: word] is a software, um, that mimics the way
+
+00:17:49.168 --> 00:17:49.808
+[speaker_name | speaker_1 | types: word] a human
+
+00:17:50.468 --> 00:17:58.348
+[speaker_name | speaker_1 | types: word] performs tasks on a computer. That basically can work like the way a human can work on a
+
+00:17:58.408 --> 00:18:06.168
+[speaker_name | speaker_1 | types: word] computer. There are different types of AI agents, the same way as there are different types of people using computers.
+
+00:18:07.228 --> 00:18:08.988
+[speaker_name | speaker_1 | types: word] For example, there's a person
+
+00:18:10.528 --> 00:18:12.808
+[speaker_name | speaker_1 | types: word] using Google Sheets doing accounting.
+
+00:18:13.868 --> 00:18:21.548
+[speaker_name | speaker_1 | types: word] Uh, or there's a person using Google Docs.... writing, uh, documentation about something.
+
+00:18:21.608 --> 00:18:29.348
+[speaker_name | speaker_1 | types: word] And that's how the AI agents can be different. And the, the most important part about AI agent is it
+
+00:18:29.428 --> 00:18:31.788
+[speaker_name | speaker_1 | types: word] has like, why do we call it agent?
+
+00:18:31.868 --> 00:18:31.878
+[speaker_name | speaker_0 | types: word] Yeah.
+
+00:18:31.888 --> 00:18:32.768
+[speaker_name | speaker_1 | types: word] Because it has
+
+00:18:33.868 --> 00:18:41.048
+[speaker_name | speaker_1 | types: word] agency. It can do things on its own. Um, the same way like James Bond, for example, if we take
+
+00:18:41.108 --> 00:18:43.598
+[speaker_name | speaker_1 | types: word] James Bond as a connotation, um,
+
+00:18:44.228 --> 00:18:46.188
+[speaker_name | speaker_1 | types: word] James Bond is an agent.
+
+00:18:46.228 --> 00:18:46.428
+[speaker_name | speaker_0 | types: word] Okay.
+
+00:18:46.448 --> 00:18:52.538
+[speaker_name | speaker_1 | types: word] He's a 007 A- agent, uh, of, um... Which country is it? US or, or British?
+
+00:18:53.088 --> 00:18:53.138
+[speaker_name | speaker_0 | types: word] UK.
+
+00:18:53.138 --> 00:18:53.908
+[speaker_name | speaker_1 | types: word] UK, British.
+
+00:18:55.048 --> 00:19:00.368
+[speaker_name | speaker_1 | types: word] So, he goes and performs tasks in other co- uh, in other countries or in the same country, and then
+
+00:19:00.408 --> 00:19:02.948
+[speaker_name | speaker_1 | types: word] he has tools, uh, that he
+
+00:19:03.748 --> 00:19:10.688
+[speaker_name | speaker_1 | types: word] has, like a car that can drive and that can swim, that can fire, that can change the number plates.
+
+00:19:10.708 --> 00:19:12.988
+[speaker_name | speaker_1 | types: word] That tool is important. So an AI agent
+
+00:19:13.608 --> 00:19:20.068
+[speaker_name | speaker_1 | types: word] can have like a Google Sheet as a tool that can perform accounting tasks or can have a Gmail access
+
+00:19:20.108 --> 00:19:26.748
+[speaker_name | speaker_1 | types: word] that can perform, um, an email com- composing an email. Uh, and, and then
+
+00:19:27.888 --> 00:19:35.508
+[speaker_name | speaker_1 | types: word] James Bond has a very sharp memory. He can remember things. Uh, he can memorize things because he wants to
+
+00:19:35.548 --> 00:19:40.108
+[speaker_name | speaker_1 | types: word] make sure that he can find the right criminal at the right time and then take it to the law.
+
+00:19:40.988 --> 00:19:45.648
+[speaker_name | speaker_1 | types: word] And so is the case with an AI agent. An AI agent needs to kind of like remember things. For
+
+00:19:45.708 --> 00:19:48.128
+[speaker_name | speaker_1 | types: word] example, if I ha- I have built an AI agent that
+
+00:19:48.768 --> 00:19:51.108
+[speaker_name | speaker_1 | types: word] takes care of my email inbox
+
+00:19:51.748 --> 00:19:57.408
+[speaker_name | speaker_1 | types: word] and I say that compose an email or send an email to John Doe and mention that I am gonna
+
+00:19:57.428 --> 00:20:01.128
+[speaker_name | speaker_1 | types: word] be 20 minutes late, it should remember that who is John Doe
+
+00:20:01.848 --> 00:20:07.048
+[speaker_name | speaker_1 | types: word] and where can I find his, his email address, and that's the memory part of an AI agent. So an
+
+00:20:07.108 --> 00:20:14.848
+[speaker_name | speaker_1 | types: word] AI agent should have, uh, a memory, intelligence, agency, tools attached to that, and it should perform
+
+00:20:14.928 --> 00:20:21.228
+[speaker_name | speaker_1 | types: word] tasks on your behalf based on fuzzy instructions in a natural language, whether this be chat or a voice or
+
+00:20:21.708 --> 00:20:26.768
+[speaker_name | speaker_1 | types: word] connected to another system based on a trigger from another system. But it should have agency and it should learn
+
+00:20:26.828 --> 00:20:30.508
+[speaker_name | speaker_1 | types: word] over time. Sorry, that was not three words or 30 words.
+
+00:20:30.517 --> 00:20:31.008
+[speaker_name | speaker_1 | types: audio_event] (laughs)
+
+00:20:31.028 --> 00:20:36.388
+[speaker_name | speaker_0 | types: word] I, I, I've never heard that, but I, I love the James Bond comparison. Now, I, I'm
+
+00:20:37.188 --> 00:20:41.628
+[speaker_name | speaker_0 | types: word] building in my head a world around an AI agent like James Bond.
+
+00:20:41.728 --> 00:20:42.188
+[speaker_name | speaker_1 | types: word] Yeah.
+
+00:20:42.248 --> 00:20:50.028
+[speaker_name | speaker_0 | types: word] Yeah, it makes sense because like James Bonds receives from his boss, uh, like a goal-
+
+00:20:50.048 --> 00:20:50.058
+[speaker_name | speaker_1 | types: word] Yeah.
+
+00:20:50.058 --> 00:20:50.228
+[speaker_name | speaker_0 | types: word] ... like
+
+00:20:50.947 --> 00:20:54.188
+[speaker_name | speaker_0 | types: word] find this criminal and kill him, let's say.
+
+00:20:54.197 --> 00:20:54.238
+[speaker_name | speaker_1 | types: audio_event] (laughs)
+
+00:20:54.248 --> 00:20:56.428
+[speaker_name | speaker_0 | types: word] Right? And it's something like that, right?
+
+00:20:56.468 --> 00:20:59.178
+[speaker_name | speaker_1 | types: word] I hope he doesn't kill him and bring him to prison, but...
+
+00:20:59.178 --> 00:20:59.197
+[speaker_name | speaker_1 | types: audio_event] (laughs)
+
+00:20:59.208 --> 00:21:01.968
+[speaker_name | speaker_0 | types: word] Okay. Okay. Right. Let's say bring him to prison.
+
+00:21:01.978 --> 00:21:02.878
+[speaker_name | speaker_1 | types: audio_event] (laughs)
+
+00:21:02.908 --> 00:21:06.908
+[speaker_name | speaker_0 | types: word] So you, you give the AI agent as well a goal, right?
+
+00:21:06.928 --> 00:21:07.368
+[speaker_name | speaker_1 | types: word] Yes.
+
+00:21:07.408 --> 00:21:13.868
+[speaker_name | speaker_0 | types: word] You can give it a goal and you give it tools, maybe an Excel, Google Sheet is not as cool
+
+00:21:13.988 --> 00:21:16.228
+[speaker_name | speaker_0 | types: word] as James Bond car, but-
+
+00:21:16.268 --> 00:21:17.028
+[speaker_name | speaker_1 | types: word] Yeah.
+
+00:21:17.038 --> 00:21:20.728
+[speaker_name | speaker_0 | types: word] ... does the job. So he can then pick the right tools
+
+00:21:21.888 --> 00:21:25.428
+[speaker_name | speaker_0 | types: word] in the order that the brain of the AI agent-
+
+00:21:25.447 --> 00:21:25.458
+[speaker_name | speaker_1 | types: word] Yeah.
+
+00:21:25.458 --> 00:21:29.228
+[speaker_name | speaker_0 | types: word] ... at the side, right? To reach a certain goal basically.
+
+00:21:29.268 --> 00:21:29.798
+[speaker_name | speaker_1 | types: word] Yes.
+
+00:21:29.848 --> 00:21:30.408
+[speaker_name | speaker_0 | types: word] Make sense?
+
+00:21:30.468 --> 00:21:33.318
+[speaker_name | speaker_1 | types: word] We can, uh, do that kind of a connotation. I think, uh,
+
+00:21:34.568 --> 00:21:38.108
+[speaker_name | speaker_1 | types: word] there must be a dozen more metaphors that we can come up with.
+
+00:21:38.118 --> 00:21:38.118
+[speaker_name | speaker_0 | types: word] Yeah.
+
+00:21:38.148 --> 00:21:39.468
+[speaker_name | speaker_1 | types: word] ChatGPT should help.
+
+00:21:39.478 --> 00:21:39.947
+[speaker_name | speaker_1 | types: audio_event] (laughs)
+
+00:21:40.028 --> 00:21:47.408
+[speaker_name | speaker_0 | types: word] Okay. Okay. That's, that's great. And so just to wrap it up, when, in which
+
+00:21:47.417 --> 00:21:55.268
+[speaker_name | speaker_0 | types: word] situations, um, in the processing of a businesses, of a business, it makes sense to use
+
+00:21:55.308 --> 00:22:02.788
+[speaker_name | speaker_0 | types: word] an agent with agency, as we said, or just a plain workflow that always do the same
+
+00:22:03.488 --> 00:22:04.708
+[speaker_name | speaker_0 | types: word] steps?
+
+00:22:04.828 --> 00:22:12.568
+[speaker_name | speaker_1 | types: word] So, um, if you have an, a workflow, better to be on n8n. Uh, if you have an n8n
+
+00:22:12.668 --> 00:22:14.208
+[speaker_name | speaker_1 | types: word] workflow,
+
+00:22:15.668 --> 00:22:18.758
+[speaker_name | speaker_1 | types: word] when to decide to put an AI agent or, or, or-
+
+00:22:18.768 --> 00:22:19.008
+[speaker_name | speaker_0 | types: word] Yeah.
+
+00:22:19.028 --> 00:22:21.128
+[speaker_name | speaker_1 | types: word] ... when to put, uh, AI capabilities in it,
+
+00:22:21.888 --> 00:22:23.708
+[speaker_name | speaker_1 | types: word] eh, it will kind of like
+
+00:22:24.488 --> 00:22:30.248
+[speaker_name | speaker_1 | types: word] become visible as soon as you start building it. If it's something to do with very
+
+00:22:31.008 --> 00:22:32.288
+[speaker_name | speaker_1 | types: word] unclear inputs,
+
+00:22:33.048 --> 00:22:37.168
+[speaker_name | speaker_1 | types: word] then most probably you need an AI agent node in n8n.
+
+00:22:37.178 --> 00:22:37.178
+[speaker_name | speaker_0 | types: word] Mm-hmm.
+
+00:22:37.228 --> 00:22:43.648
+[speaker_name | speaker_1 | types: word] For example, coming back to this receipt for this restaurant. Receipts can be scanned
+
+00:22:44.328 --> 00:22:51.748
+[speaker_name | speaker_1 | types: word] and receipts can be of different types of data input. It already is indicating that it needs AI integration
+
+00:22:51.828 --> 00:22:59.768
+[speaker_name | speaker_1 | types: word] because the amount of data that's coming in, the types of input is so much different.
+
+00:22:59.848 --> 00:23:03.918
+[speaker_name | speaker_1 | types: word] And AI is very good in recognizing patterns and extracting text from
+
+00:23:04.768 --> 00:23:12.488
+[speaker_name | speaker_1 | types: word] multiple different types of data input and then finding the right description for that invoice, the right date,
+
+00:23:13.028 --> 00:23:19.288
+[speaker_name | speaker_1 | types: word] because one invoice or one receipt can have a date setting somewhere else, one in somewhere else. Um,
+
+00:23:20.648 --> 00:23:27.048
+[speaker_name | speaker_1 | types: word] and extracting the amount, description, and so on. That is already an indication that you need an AI integration in
+
+00:23:27.068 --> 00:23:31.588
+[speaker_name | speaker_1 | types: word] your workflow. But on the other side, if you want to have a workflow that is just like running
+
+00:23:32.328 --> 00:23:38.968
+[speaker_name | speaker_1 | types: word] and doing something, it will li- automatically be identified because, for example, you have an API from one side, you're
+
+00:23:39.048 --> 00:23:44.968
+[speaker_name | speaker_1 | types: word] sucking in all that data, you're sanitizing it, you're cleaning it, and you're dumping it in a, in a database.
+
+00:23:45.008 --> 00:23:49.648
+[speaker_name | speaker_1 | types: word] In that case, you don't need AI because it's just like a pipeline that goes like from one, data flows
+
+00:23:49.688 --> 00:23:51.608
+[speaker_name | speaker_1 | types: word] from one side, goes to the other side.
+
+00:23:51.628 --> 00:23:51.918
+[speaker_name | speaker_0 | types: word] Mm-hmm.
+
+00:23:52.008 --> 00:23:55.408
+[speaker_name | speaker_1 | types: word] So in that case, you don't need, uh, any AI integration.
+
+00:23:55.468 --> 00:23:55.688
+[speaker_name | speaker_0 | types: word] Okay.
+
+00:23:55.768 --> 00:24:00.498
+[speaker_name | speaker_1 | types: word] I think it's just the workflow when you start building it, it will identify itself that, oh, okay, here I,
+
+00:24:00.498 --> 00:24:06.468
+[speaker_name | speaker_1 | types: word] I need AI. And then it's agentic and it's an AI automation. Uh, and, and gradually, it will
+
+00:24:07.268 --> 00:24:14.508
+[speaker_name | speaker_1 | types: word] go to that AI agent world where it has at least this brain, the ChatGPT model, the, the, the
+
+00:24:14.588 --> 00:24:17.488
+[speaker_name | speaker_1 | types: word] memory, and the tools. Those three basic
+
+00:24:18.148 --> 00:24:21.048
+[speaker_name | speaker_1 | types: word] ingredients that makes an AI agent, an AI agent.
+
+00:24:21.308 --> 00:24:29.148
+[speaker_name | speaker_0 | types: word] Mm-hmm. Okay. Yeah. So when the things are, yeah, not clear and usually need a human to decide what
+
+00:24:29.228 --> 00:24:31.128
+[speaker_name | speaker_0 | types: word] to do, it's the right place
+
+00:24:31.748 --> 00:24:34.128
+[speaker_name | speaker_0 | types: word] to, to use an AI agent, right?
+
+00:24:34.168 --> 00:24:34.708
+[speaker_name | speaker_1 | types: word] Yes.
+
+00:24:34.748 --> 00:24:36.148
+[speaker_name | speaker_0 | types: word] Yes. Okay.
+
+00:24:36.188 --> 00:24:36.598
+[speaker_name | speaker_1 | types: word] Wonderful.
+
+00:24:36.598 --> 00:24:37.208
+[speaker_name | speaker_0 | types: audio_event] (laughs)
+
+00:24:37.228 --> 00:24:38.668
+[speaker_name | speaker_0 | types: word] Wonderful. I think we can
+
+00:24:39.888 --> 00:24:41.028
+[speaker_name | speaker_0 | types: word] stop it here, right?
+
+00:24:41.188 --> 00:24:41.458
+[speaker_name | speaker_1 | types: word] Wrap it up. Thank you so much.
+
+00:24:41.468 --> 00:24:43.447
+[speaker_name | speaker_0 | types: word] And finish our beer. Thanks. Thanks to you.
+
+00:24:43.458 --> 00:24:43.498
+[speaker_name | speaker_1 | types: word] Yeah. Thank you so much.
+
+00:24:43.498 --> 00:24:45.508
+[speaker_name | speaker_0 | types: word] This was like random.
+
+00:24:45.548 --> 00:24:46.697
+[speaker_name | speaker_1 | types: word] Yeah. Wait, wait a minute. Let's-
+
+00:24:46.728 --> 00:24:46.858
+[speaker_name | speaker_0 | types: word] Yeah.
+
+00:24:46.858 --> 00:24:49.028
+[speaker_name | speaker_1 | types: word] Let us, let us show you the, the-
+
+00:24:49.038 --> 00:24:49.038
+[speaker_name | speaker_0 | types: word] Yeah.
+
+00:24:49.038 --> 00:24:51.888
+[speaker_name | speaker_1 | types: word] ... the scene actually. Is it okay if we show the scene?
+
+00:24:51.928 --> 00:24:52.608
+[speaker_name | speaker_0 | types: word] Yeah, sure.
+
+00:24:52.628 --> 00:24:58.128
+[speaker_name | speaker_1 | types: word] Yeah, let's, let's go and s- show the scene. Where are we sitting? This is how we generate contents.
+
+00:24:58.138 --> 00:24:59.288
+[speaker_name | speaker_1 | types: audio_event] (laughs)
+
+00:24:59.348 --> 00:25:06.888
+[speaker_name | speaker_0 | types: word] So I learned from Amel today to just vibe code... no, vibe my content. And so we
+
+00:25:06.947 --> 00:25:08.947
+[speaker_name | speaker_0 | types: word] randomly stopped here
+
+00:25:09.588 --> 00:25:10.688
+[speaker_name | speaker_0 | types: word] and decided to-
+
+00:25:10.697 --> 00:25:10.697
+[speaker_name | speaker_1 | types: word] Yeah.
+
+00:25:10.697 --> 00:25:11.298
+[speaker_name | speaker_0 | types: word] ... to have a talk.
+
+00:25:11.298 --> 00:25:12.128
+[speaker_name | speaker_1 | types: word] But take that stage.
+
+00:25:12.138 --> 00:25:12.138
+[speaker_name | speaker_0 | types: word] Yeah.
+
+00:25:12.148 --> 00:25:18.408
+[speaker_name | speaker_1 | types: word] That stage was so nice. And I think, uh, take, take this entire stage. Look at that. Like, if I,
+
+00:25:19.228 --> 00:25:19.238
+[speaker_name | speaker_1 | types: word] if I-
+
+00:25:19.238 --> 00:25:20.348
+[speaker_name | speaker_0 | types: word] It was made for it.
+
+00:25:20.388 --> 00:25:24.588
+[speaker_name | speaker_1 | types: word] Yeah, it was literally waiting for us to, to take this stage-
+
+00:25:24.598 --> 00:25:25.088
+[speaker_name | speaker_0 | types: audio_event] (laughs)
+
+00:25:25.148 --> 00:25:30.447
+[speaker_name | speaker_1 | types: word] ... uh, and literally do this, uh, in a way that we did it. Thank you so much for the
+
+00:25:30.488 --> 00:25:30.888
+[speaker_name | speaker_1 | types: word] interview.
+
+00:25:30.928 --> 00:25:31.118
+[speaker_name | speaker_0 | types: word] Thanks, Amel.
+
+00:25:31.118 --> 00:25:34.208
+[speaker_name | speaker_1 | types: word] It's a very nice content.

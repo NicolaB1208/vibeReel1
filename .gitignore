@@ -12,3 +12,4 @@ instance/
 /data/output/*.mp4
 /data/output/*.mov
 /data/output/*.mkv
+scratch/
