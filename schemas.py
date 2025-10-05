@@ -35,31 +35,87 @@ TRANSCRIPT_DOCUMENT_SCHEMA: dict = {
                     "segment_id": {"type": "string"},
                     "speaker_id": {"type": ["string", "null"]},
                     "speaker_label": {"type": "string"},
-                    "start": {"type": ["number", "string", "null"]},
-                    "end": {"type": ["number", "string", "null"]},
+                    "start": {"type": ["number", "integer"]},
+                    "end": {"type": ["number", "integer"]},
                     "phrase_text": {"type": "string"},
                     "audio_event": {"type": "string"},
                     "tokens": {
                         "type": "array",
+                        "minItems": 1,
                         "items": {
                             "type": "object",
-                            "required": ["type", "text"],
+                            "required": [
+                                "type",
+                                "text",
+                                "start",
+                                "end",
+                                "speaker_id",
+                                "speaker_label",
+                            ],
                             "properties": {
                                 "type": {"type": "string"},
                                 "text": {"type": "string"},
-                                "start": {"type": ["number", "string", "null"]},
-                                "end": {"type": ["number", "string", "null"]},
+                                "start": {"type": ["number", "integer"]},
+                                "end": {"type": ["number", "integer"]},
                                 "speaker_id": {"type": ["string", "null"]},
                                 "speaker_label": {"type": "string"},
-                                "confidence": {"type": ["number", "null"]},
                             },
-                            "additionalProperties": True,
+                            "additionalProperties": False,
                         },
                     },
                 },
-                "oneOf": [
-                    {"required": ["phrase_text"], "properties": {"audio_event": {"type": "null"}}},
-                    {"required": ["audio_event"], "properties": {"phrase_text": {"type": "null"}}},
+                "anyOf": [
+                    {"required": ["phrase_text"]},
+                    {"required": ["audio_event"]},
+                ],
+                "additionalProperties": False,
+            },
+        },
+        "full_text": {"type": "string"},
+    },
+    "additionalProperties": False,
+}
+
+TRANSCRIPT_DOCUMENT_SCHEMA_NO_TOKENS: dict = {
+    "type": "object",
+    "required": [
+        "video_path",
+        "generated_at",
+        "granularity",
+        "language_code",
+        "model_id",
+        "segments",
+        "full_text",
+    ],
+    "properties": {
+        "video_path": {"type": "string"},
+        "generated_at": {"type": "string"},
+        "granularity": {"type": "string"},
+        "language_code": {"type": ["string", "null"]},
+        "model_id": {"type": "string"},
+        "segments": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "required": [
+                    "segment_id",
+                    "speaker_id",
+                    "speaker_label",
+                    "start",
+                    "end",
+                ],
+                "properties": {
+                    "segment_id": {"type": "string"},
+                    "speaker_id": {"type": ["string", "null"]},
+                    "speaker_label": {"type": "string"},
+                    "start": {"type": ["number", "integer"]},
+                    "end": {"type": ["number", "integer"]},
+                    "phrase_text": {"type": "string"},
+                    "audio_event": {"type": "string"},
+                },
+                "anyOf": [
+                    {"required": ["phrase_text"]},
+                    {"required": ["audio_event"]},
                 ],
                 "additionalProperties": False,
             },
@@ -96,4 +152,8 @@ AI_CUT_PLAN_SCHEMA: dict = {
     "additionalProperties": False,
 }
 
-__all__ = ["TRANSCRIPT_DOCUMENT_SCHEMA", "AI_CUT_PLAN_SCHEMA"]
+__all__ = [
+    "TRANSCRIPT_DOCUMENT_SCHEMA",
+    "TRANSCRIPT_DOCUMENT_SCHEMA_NO_TOKENS",
+    "AI_CUT_PLAN_SCHEMA",
+]

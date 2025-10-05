@@ -1,0 +1,140 @@
+{
+    "model_version": "ai_cut_planner_v1",
+    "generated_at": "2025-10-05T00:00:00Z",
+    "notes": "Non-technical SMB-focused cut: clear AI agent definition + James Bond metaphor, then a practical restaurant receipt-scanning workflow and ROI. Total ~95.7s.",
+    "cuts": [
+      {
+        "cut_id": "cut_001",
+        "source_segment_id": "seg_0256",
+        "start_ms": 1060528,
+        "end_ms": 1061757,
+        "justification": "Opens with a plain-English definition hook."
+      },
+      {
+        "cut_id": "cut_002",
+        "source_segment_id": "seg_0257",
+        "start_ms": 1062508,
+        "end_ms": 1067648,
+        "justification": "Completes the simple definition for non-technical viewers."
+      },
+      {
+        "cut_id": "cut_003",
+        "source_segment_id": "seg_0265",
+        "start_ms": 1109428,
+        "end_ms": 1111788,
+        "justification": "Sets up why it’s called an “agent.”"
+      },
+      {
+        "cut_id": "cut_004",
+        "source_segment_id": "seg_0267",
+        "start_ms": 1111888,
+        "end_ms": 1112768,
+        "justification": "Bridge into agency concept."
+      },
+      {
+        "cut_id": "cut_005",
+        "source_segment_id": "seg_0268",
+        "start_ms": 1113868,
+        "end_ms": 1121048,
+        "justification": "James Bond metaphor makes the idea vivid and memorable."
+      },
+      {
+        "cut_id": "cut_006",
+        "source_segment_id": "seg_0269",
+        "start_ms": 1121108,
+        "end_ms": 1123598,
+        "justification": "Continues metaphor setup smoothly."
+      },
+      {
+        "cut_id": "cut_007",
+        "source_segment_id": "seg_0270",
+        "start_ms": 1124228,
+        "end_ms": 1126188,
+        "justification": "Punchy close to the metaphor intro."
+      },
+      {
+        "cut_id": "cut_008",
+        "source_segment_id": "seg_0278",
+        "start_ms": 1150708,
+        "end_ms": 1152988,
+        "justification": "Transitions from metaphor to practical tools."
+      },
+      {
+        "cut_id": "cut_009",
+        "source_segment_id": "seg_0279",
+        "start_ms": 1153608,
+        "end_ms": 1160068,
+        "justification": "Concrete examples (Sheets, Gmail) keep it relatable."
+      },
+      {
+        "cut_id": "cut_010",
+        "source_segment_id": "seg_0290",
+        "start_ms": 1214928,
+        "end_ms": 1221228,
+        "justification": "Summarizes what agents actually do: act on fuzzy, natural-language instructions."
+      },
+      {
+        "cut_id": "cut_011",
+        "source_segment_id": "seg_0184",
+        "start_ms": 759168,
+        "end_ms": 766308,
+        "justification": "Pivot to SMBs: identify repetitive processes as starting point."
+      },
+      {
+        "cut_id": "cut_012",
+        "source_segment_id": "seg_0188",
+        "start_ms": 782068,
+        "end_ms": 789728,
+        "justification": "Practical advice: talk workflows, not tech bells and whistles."
+      },
+      {
+        "cut_id": "cut_013",
+        "source_segment_id": "seg_0199",
+        "start_ms": 837728,
+        "end_ms": 845048,
+        "justification": "Introduce a tangible, easy SMB use case: receipt scanning."
+      },
+      {
+        "cut_id": "cut_014",
+        "source_segment_id": "seg_0202",
+        "start_ms": 852788,
+        "end_ms": 858908,
+        "justification": "Step 1 of workflow: scan receipts to Drive."
+      },
+      {
+        "cut_id": "cut_015",
+        "source_segment_id": "seg_0203",
+        "start_ms": 858948,
+        "end_ms": 865168,
+        "justification": "Step 2: auto-log to Google Sheets."
+      },
+      {
+        "cut_id": "cut_016",
+        "source_segment_id": "seg_0205",
+        "start_ms": 869288,
+        "end_ms": 875818,
+        "justification": "Step 3: hourly Slack summaries—instant managerial value."
+      },
+      {
+        "cut_id": "cut_017",
+        "source_segment_id": "seg_0209",
+        "start_ms": 879908,
+        "end_ms": 885748,
+        "justification": "Scalable strategy: perfect it once, sell to others."
+      },
+      {
+        "cut_id": "cut_018",
+        "source_segment_id": "seg_0211",
+        "start_ms": 891388,
+        "end_ms": 896208,
+        "justification": "ROI hook: even at €1,000 it’s compelling for restaurants."
+      },
+      {
+        "cut_id": "cut_019",
+        "source_segment_id": "seg_0214",
+        "start_ms": 907348,
+        "end_ms": 915117,
+        "justification": "Closer: “three hours, €1,000” — strong, memorable payoff."
+      }
+    ]
+}
