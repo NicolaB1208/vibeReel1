@@ -145,14 +145,29 @@ def build_ffmpeg_cut_commands(
 
     for cut in cuts:
         clip_path = output_dir / f"{source_video.stem}_{cut.cut_id}.mp4"
+        # Legacy output-seek command kept for quick toggling:
+        # command = [
+        #     "ffmpeg",
+        #     "-i",
+        #     str(source_video),
+        #     "-ss",
+        #     cut.start_tc(),
+        #     "-to",
+        #     cut.end_tc(),
+        #     "-c",
+        #     "copy",
+        #     "-avoid_negative_ts",
+        #     "make_zero",
+        #     str(clip_path),
+        # ]
         command = [
             "ffmpeg",
-            "-i",
-            str(source_video),
             "-ss",
             cut.start_tc(),
             "-to",
             cut.end_tc(),
+            "-i",
+            str(source_video),
             "-c",
             "copy",
             "-avoid_negative_ts",

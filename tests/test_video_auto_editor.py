@@ -64,12 +64,12 @@ def test_build_ffmpeg_cut_commands_matches_template(tmp_path: Path):
     assert clip_paths[0] == tmp_path / "test_podcast_raw_video_1_intro.mp4"
     assert commands[0] == [
         "ffmpeg",
-        "-i",
-        "data/raw/test_podcast_raw_video_1.mov",
         "-ss",
         "00:00:02.500",
         "-to",
         "00:00:07.759",
+        "-i",
+        "data/raw/test_podcast_raw_video_1.mov",
         "-c",
         "copy",
         "-avoid_negative_ts",
