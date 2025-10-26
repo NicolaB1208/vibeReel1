@@ -11,7 +11,6 @@ from typing import Iterable, Sequence
 
 from schemas import AI_CUT_PLAN_SCHEMA  # noqa: F401
 
-
 DEFAULT_SOURCE_VIDEO = Path(
     "/Volumes/LaCie/AI Business/Videos/aemal_podcast_interview/raw_video/"
     "aemal_sayer_podcast_interview_full_recording_raw.MOV"
@@ -107,14 +106,20 @@ def validate_ai_cut_plan(plan: dict) -> list[CutInstruction]:
         start_ms = cut.get("start_ms")
         end_ms = cut.get("end_ms")
 
-        if not isinstance(start_ms, (int, float)) or not isinstance(end_ms, (int, float)):
-            raise ValueError(f"Cut {cut_id} must include numeric 'start_ms' and 'end_ms'")
+        if not isinstance(start_ms, (int, float)) or not isinstance(
+            end_ms, (int, float)
+        ):
+            raise ValueError(
+                f"Cut {cut_id} must include numeric 'start_ms' and 'end_ms'"
+            )
 
         start_ms = int(start_ms)
         end_ms = int(end_ms)
 
         if start_ms < 0 or end_ms <= start_ms:
-            raise ValueError(f"Cut {cut_id} has invalid time bounds: {start_ms} -> {end_ms}")
+            raise ValueError(
+                f"Cut {cut_id} has invalid time bounds: {start_ms} -> {end_ms}"
+            )
 
         normalized.append(
             CutInstruction(
@@ -407,11 +412,7 @@ def _parse_args() -> argparse.Namespace:
         "--source-video",
         type=Path,
         default=DEFAULT_SOURCE_VIDEO,
-        help=(
-            "Path to the source video (default: "
-            f"{DEFAULT_SOURCE_VIDEO}"
-            ")"
-        ),
+        help=(f"Path to the source video (default: {DEFAULT_SOURCE_VIDEO})"),
     )
     parser.add_argument(
         "--clips-dir",
